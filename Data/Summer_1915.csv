@@ -1,0 +1,2201 @@
+Year,Type,Country,Athlete,Sport,Medal,Age
+1915,Summer,Canada,Jerry Morton,Cycling,Silver,25
+1915,Summer,India,Michael Stevens,Basketball,Silver,32
+1915,Summer,UK,Cheryl Bartlett,Tennis,Gold,32
+1915,Summer,USA,Anna Holloway,Cycling,Bronze,34
+1915,Summer,Russia,Angela Hart,Cycling,Silver,18
+1915,Summer,Brazil,Nicholas Martin,Cycling,Gold,34
+1915,Summer,Germany,Melanie Rosario,Boxing,Gold,25
+1915,Summer,USA,Amy Miller,Boxing,Gold,38
+1915,Summer,China,Tracy Parker,Soccer,Silver,20
+1915,Summer,USA,Ann Ward,Cycling,Silver,29
+1915,Summer,Russia,Heather Andrade,Athletics,Silver,34
+1915,Summer,South Korea,Anthony Castro,Tennis,,22
+1915,Summer,France,Blake Potter,Soccer,Bronze,20
+1915,Summer,South Korea,Lori Robbins,Basketball,Gold,29
+1915,Summer,Russia,Mason Rodriguez,Tennis,Silver,25
+1915,Summer,India,Julie Smith,Basketball,Bronze,35
+1915,Summer,Italy,Alexandra Moreno,Boxing,Bronze,27
+1915,Summer,Australia,Timothy Pacheco,Boxing,Bronze,26
+1915,Summer,Japan,Ellen Blake,Soccer,Bronze,26
+1915,Summer,South Korea,Samantha Kramer,Athletics,Gold,19
+1915,Summer,China,David Long,Cycling,Silver,22
+1915,Summer,China,Patrick Young,Weightlifting,Silver,26
+1915,Summer,South Africa,Mark Hall,Basketball,Silver,33
+1915,Summer,South Korea,Peter Wright,Athletics,Gold,35
+1915,Summer,UK,Mitchell Clements,Athletics,Bronze,26
+1915,Summer,Brazil,Jamie Wood,Soccer,,40
+1915,Summer,South Korea,Ryan Collier,Rowing,Silver,33
+1915,Summer,Russia,Cassie Johnson,Cycling,Bronze,39
+1915,Summer,Germany,Brian Santiago,Swimming,Silver,32
+1915,Summer,Brazil,Brandon Goodman,Swimming,Bronze,29
+1915,Summer,South Africa,Elizabeth Simmons,Weightlifting,Silver,39
+1915,Summer,USA,Cassandra Ruiz,Basketball,Bronze,31
+1915,Summer,South Africa,Kyle Meza,Athletics,Bronze,32
+1915,Summer,Russia,Spencer Mueller,Soccer,,40
+1915,Summer,Italy,Bianca Jimenez,Rowing,,25
+1915,Summer,Japan,Mark Walsh,Soccer,Gold,38
+1915,Summer,Brazil,Maurice Brown,Boxing,Silver,30
+1915,Summer,India,Bradley Short,Tennis,Gold,26
+1915,Summer,Italy,Angel Rose,Boxing,Bronze,39
+1915,Summer,Brazil,Lisa Wilson,Athletics,Silver,22
+1915,Summer,USA,James Young,Rowing,,34
+1915,Summer,South Korea,David Edwards,Rowing,Silver,21
+1915,Summer,Germany,Hannah Brown,Rowing,Gold,37
+1915,Summer,Germany,Donald Jackson,Swimming,Gold,34
+1915,Summer,Brazil,Alex Gardner,Swimming,Gold,28
+1915,Summer,Brazil,Richard Moreno,Basketball,,23
+1915,Summer,Russia,Stacey Caldwell,Cycling,,35
+1915,Summer,India,Carmen Boyd,Basketball,Gold,39
+1915,Summer,France,Lisa Neal,Tennis,Gold,19
+1915,Summer,Australia,Brandon Walters,Weightlifting,Bronze,31
+1915,Summer,Brazil,Megan Harrison,Athletics,Bronze,24
+1915,Summer,South Korea,Karen Wells,Weightlifting,Bronze,35
+1915,Summer,USA,Angela Miller,Rowing,Gold,19
+1915,Summer,Australia,Matthew Mccullough,Swimming,Gold,40
+1915,Summer,South Korea,Savannah York,Boxing,Bronze,20
+1915,Summer,South Africa,Jennifer Herrera,Cycling,Bronze,34
+1915,Summer,France,John Allen,Cycling,Silver,25
+1915,Summer,Japan,Tracey Hardy,Gymnastics,Bronze,35
+1915,Summer,Russia,Matthew Richards,Soccer,Gold,29
+1915,Summer,UK,Daniel Anderson,Athletics,Gold,18
+1915,Summer,France,Lisa Costa,Rowing,Silver,21
+1915,Summer,South Africa,Justin Lopez,Tennis,Silver,20
+1915,Summer,China,Patricia Williams,Athletics,,36
+1915,Summer,France,Kyle Thompson,Rowing,Bronze,28
+1915,Summer,Japan,Abigail Harris,Soccer,Bronze,23
+1915,Summer,Canada,Michele Duke,Cycling,Gold,27
+1915,Summer,India,Michael Hall,Cycling,Bronze,22
+1915,Summer,Russia,Jason Walker,Athletics,,23
+1915,Summer,Australia,Jill Moody,Athletics,Bronze,30
+1915,Summer,Australia,Raymond Walker,Athletics,Silver,22
+1915,Summer,Germany,Joseph Day,Weightlifting,Silver,40
+1915,Summer,South Africa,Peggy Clements,Soccer,Gold,34
+1915,Summer,UK,Jennifer Conley,Basketball,Bronze,38
+1915,Summer,USA,Katherine Massey,Cycling,Gold,28
+1915,Summer,South Korea,Brittany Norman,Tennis,,35
+1915,Summer,Japan,Thomas Ellison,Weightlifting,,29
+1915,Summer,UK,George Smith,Gymnastics,Bronze,20
+1915,Summer,France,David Moore,Gymnastics,Bronze,22
+1915,Summer,Germany,Kevin Lee,Boxing,Gold,28
+1915,Summer,Germany,Harry Walsh,Basketball,Silver,23
+1915,Summer,South Africa,Danielle Cox,Cycling,,23
+1915,Summer,Brazil,Samantha Garcia,Athletics,Silver,21
+1915,Summer,South Africa,Jessica Waters,Boxing,Gold,24
+1915,Summer,South Africa,Margaret Mcdaniel,Weightlifting,Silver,37
+1915,Summer,France,Lori Reyes,Weightlifting,Silver,31
+1915,Summer,China,Jessica Davidson,Swimming,Silver,34
+1915,Summer,China,Alan Hill,Boxing,Bronze,19
+1915,Summer,Australia,Deanna Soto,Boxing,Gold,18
+1915,Summer,Canada,Zachary Bowen,Tennis,Silver,33
+1915,Summer,UK,James Young,Cycling,Gold,37
+1915,Summer,USA,Gina Johnson,Boxing,Silver,22
+1915,Summer,Italy,Ashley Dunlap,Soccer,Gold,30
+1915,Summer,Australia,Michael Tapia,Cycling,Bronze,25
+1915,Summer,Japan,Jose Gamble,Athletics,Silver,31
+1915,Summer,Canada,Jason Stevens,Cycling,,31
+1915,Summer,Australia,Daniel Rowe,Tennis,,21
+1915,Summer,South Africa,April Guerrero,Gymnastics,Bronze,23
+1915,Summer,South Korea,Amy Wood,Cycling,Gold,21
+1915,Summer,Germany,Riley Vasquez,Soccer,Bronze,32
+1915,Summer,South Korea,Marie Williams,Cycling,Gold,32
+1915,Summer,China,Susan Lowery,Rowing,,19
+1915,Summer,Japan,Jason Benitez,Athletics,Silver,24
+1915,Summer,France,Angelica Benson,Rowing,Bronze,31
+1915,Summer,South Korea,Leah Abbott,Basketball,Bronze,39
+1915,Summer,France,Frances Ibarra,Athletics,Bronze,28
+1915,Summer,USA,Veronica Bowman,Rowing,Gold,28
+1915,Summer,UK,Raymond Greer,Rowing,Gold,27
+1915,Summer,Australia,Eugene Smith,Athletics,Gold,28
+1915,Summer,France,Michelle Underwood,Swimming,,34
+1915,Summer,Italy,David Potter,Rowing,Silver,18
+1915,Summer,USA,Benjamin Murphy,Athletics,Gold,29
+1915,Summer,France,George Bryan,Athletics,,18
+1915,Summer,France,James Kent,Swimming,Silver,39
+1915,Summer,Brazil,James Thornton,Gymnastics,,36
+1915,Summer,France,Justin Barnett,Basketball,Gold,20
+1915,Summer,Brazil,Samuel Barber,Gymnastics,Bronze,33
+1915,Summer,UK,Aaron Walker,Boxing,Bronze,23
+1915,Summer,Russia,Suzanne Molina,Gymnastics,Bronze,28
+1915,Summer,Russia,Cameron Quinn,Boxing,Silver,38
+1915,Summer,India,Austin Thompson,Tennis,Silver,19
+1915,Summer,UK,Michael Morales,Tennis,Silver,29
+1915,Summer,France,Cassandra Williamson,Boxing,Silver,30
+1915,Summer,China,Robert Hobbs,Basketball,,39
+1915,Summer,USA,Ryan Gonzalez,Swimming,,33
+1915,Summer,Russia,Ashley Thomas,Rowing,,21
+1915,Summer,Italy,Ashley Austin,Cycling,Silver,38
+1915,Summer,France,Troy Stokes,Basketball,Silver,36
+1915,Summer,Italy,Christopher Davila,Boxing,,24
+1915,Summer,Germany,Katrina Lara MD,Soccer,Bronze,40
+1915,Summer,Russia,Miss Donna Griffin,Tennis,Silver,34
+1915,Summer,Germany,Mrs. Michelle Flores,Soccer,Silver,22
+1915,Summer,Brazil,Donald Erickson,Athletics,Gold,23
+1915,Summer,Italy,Monique Guerrero,Basketball,Silver,38
+1915,Summer,Brazil,Elijah Lewis,Boxing,,26
+1915,Summer,Germany,Bethany Collins,Weightlifting,Silver,27
+1915,Summer,South Korea,Brittany Coleman,Soccer,Silver,36
+1915,Summer,USA,Lori Sawyer,Basketball,,28
+1915,Summer,Italy,Kevin Church,Tennis,Bronze,38
+1915,Summer,Japan,Lindsay Thomas,Weightlifting,Bronze,30
+1915,Summer,South Korea,Dana Mitchell,Soccer,Silver,35
+1915,Summer,Italy,Eileen Watkins,Gymnastics,,26
+1915,Summer,Japan,Michelle Ramos,Cycling,Silver,39
+1915,Summer,Brazil,James Norman,Cycling,Silver,19
+1915,Summer,Japan,James Campbell,Swimming,Bronze,26
+1915,Summer,India,Claudia Chandler,Boxing,,34
+1915,Summer,Japan,Audrey Erickson,Rowing,Gold,25
+1915,Summer,Japan,Jorge Huang,Rowing,,25
+1915,Summer,Italy,John Short,Tennis,Bronze,24
+1915,Summer,India,Joshua Young,Gymnastics,Bronze,37
+1915,Summer,Russia,Cindy Ramirez,Weightlifting,Bronze,33
+1915,Summer,Japan,Jeffery White,Weightlifting,Silver,29
+1915,Summer,Japan,Haley Pena,Basketball,Bronze,27
+1915,Summer,South Africa,Thomas Smith DDS,Boxing,Silver,32
+1915,Summer,Russia,William Butler,Tennis,Gold,22
+1915,Summer,Brazil,Curtis Burton,Soccer,Bronze,28
+1915,Summer,Italy,Deborah Hernandez,Swimming,Silver,28
+1915,Summer,China,Denise Cole,Cycling,Gold,34
+1915,Summer,Russia,Ryan Scott,Gymnastics,,22
+1915,Summer,India,Mr. Joseph Flores,Boxing,Silver,24
+1915,Summer,India,Zachary Franco,Swimming,Silver,33
+1915,Summer,Brazil,Ann Raymond,Soccer,Bronze,20
+1915,Summer,Germany,Amanda Richards,Gymnastics,,25
+1915,Summer,Canada,Adam Neal,Boxing,,36
+1915,Summer,China,Jose Rogers,Swimming,Gold,38
+1915,Summer,South Korea,Jillian Vega,Cycling,Bronze,23
+1915,Summer,South Korea,Charles Larson,Tennis,Silver,40
+1915,Summer,Canada,Jennifer Gates,Rowing,Gold,23
+1915,Summer,India,Kristina Barnes,Tennis,,35
+1915,Summer,Russia,Kathy Wolf,Tennis,Bronze,18
+1915,Summer,Italy,Stephanie Boyd,Soccer,Bronze,26
+1915,Summer,China,Amy Alvarez,Tennis,Silver,30
+1915,Summer,Brazil,Robert Krueger,Gymnastics,,34
+1915,Summer,USA,John Thomas,Weightlifting,Silver,25
+1915,Summer,USA,Juan Boyle,Athletics,Silver,37
+1915,Summer,India,Jason French,Soccer,Bronze,26
+1915,Summer,Australia,Amy Thompson,Boxing,Gold,27
+1915,Summer,Australia,Paul Anderson,Soccer,Gold,21
+1915,Summer,Italy,Ashley Coleman,Rowing,Silver,21
+1915,Summer,China,Marcus Robbins,Boxing,Bronze,21
+1915,Summer,South Africa,Savannah Moore,Rowing,,33
+1915,Summer,USA,Annette Vargas,Swimming,Silver,29
+1915,Summer,Japan,Sherri Campbell,Gymnastics,Silver,34
+1915,Summer,South Korea,Julia Taylor,Weightlifting,Bronze,32
+1915,Summer,China,Timothy Price,Cycling,Silver,24
+1915,Summer,South Africa,Joseph Martin,Basketball,Silver,39
+1915,Summer,Russia,Timothy Goodwin,Boxing,Silver,26
+1915,Summer,Japan,Abigail Aguilar,Rowing,Gold,34
+1915,Summer,Japan,Jerry Beasley,Tennis,Bronze,36
+1915,Summer,Russia,David Richardson,Athletics,Gold,18
+1915,Summer,Russia,James Waller,Boxing,Gold,18
+1915,Summer,France,Lisa Harding,Swimming,Gold,29
+1915,Summer,South Africa,Chad Bell,Rowing,Gold,36
+1915,Summer,China,Joel Gilbert,Athletics,Bronze,33
+1915,Summer,Russia,John Davis,Weightlifting,Gold,30
+1915,Summer,Russia,Theresa Goodwin,Swimming,,38
+1915,Summer,Australia,Jason Moore,Athletics,Bronze,27
+1915,Summer,Germany,Philip Moreno,Tennis,Silver,26
+1915,Summer,Germany,John Robinson MD,Swimming,Bronze,24
+1915,Summer,South Korea,Tiffany Beard,Tennis,,30
+1915,Summer,South Africa,Todd Morris,Athletics,,29
+1915,Summer,USA,Lee Huang,Gymnastics,Silver,36
+1915,Summer,Canada,Brandon Griffin,Tennis,Gold,37
+1915,Summer,Japan,Madison Spencer,Cycling,Gold,36
+1915,Summer,USA,Cody Stephens,Athletics,,23
+1915,Summer,Japan,Henry Andrews,Cycling,Silver,33
+1915,Summer,Brazil,Miss Erin Edwards,Tennis,,26
+1915,Summer,Australia,Terri Wright,Soccer,Silver,38
+1915,Summer,UK,Todd Mckee,Boxing,Gold,33
+1915,Summer,Brazil,Diana Jackson,Soccer,Gold,24
+1915,Summer,Brazil,Megan Tucker,Rowing,Silver,27
+1915,Summer,Italy,Brian Carr,Rowing,Gold,19
+1915,Summer,India,Brittany Foster,Tennis,,22
+1915,Summer,Canada,Andrew Chapman,Gymnastics,Gold,19
+1915,Summer,South Africa,Shelby Adams,Athletics,Silver,38
+1915,Summer,Russia,Blake Simon,Soccer,,36
+1915,Summer,China,Hector Grimes,Swimming,Silver,23
+1915,Summer,France,Jeffrey Hawkins,Tennis,,33
+1915,Summer,Germany,Gregory Dennis,Soccer,Gold,38
+1915,Summer,South Africa,Sarah Hayes,Boxing,Bronze,21
+1915,Summer,Canada,Heather Fuller,Cycling,Silver,18
+1915,Summer,UK,Kevin Roth,Rowing,Bronze,38
+1915,Summer,France,Tiffany Kennedy DDS,Weightlifting,Gold,32
+1915,Summer,France,Mitchell Newman,Cycling,,22
+1915,Summer,Brazil,Julia Waters,Weightlifting,Silver,30
+1915,Summer,USA,Michelle Rocha,Rowing,Gold,32
+1915,Summer,Canada,Kelly Wilson,Rowing,,20
+1915,Summer,Australia,Ms. Dana Phillips,Gymnastics,Silver,24
+1915,Summer,Italy,Cynthia Hamilton,Weightlifting,,28
+1915,Summer,Russia,Lisa Phillips,Rowing,,22
+1915,Summer,Italy,Felicia Martinez,Tennis,Silver,27
+1915,Summer,Russia,Crystal Robinson,Tennis,Gold,40
+1915,Summer,Canada,John Sanders,Cycling,,30
+1915,Summer,China,Jenna Silva,Cycling,,39
+1915,Summer,UK,Joshua Ortega,Basketball,Gold,40
+1915,Summer,Canada,Brittney Wilson,Rowing,Silver,39
+1915,Summer,France,Nathan Randolph,Gymnastics,,23
+1915,Summer,Brazil,Toni Matthews,Weightlifting,Silver,22
+1915,Summer,USA,Angelica Walsh,Athletics,Gold,37
+1915,Summer,France,Yvette Zimmerman,Gymnastics,,36
+1915,Summer,Japan,Daniel Wong DDS,Tennis,Bronze,27
+1915,Summer,Russia,Jacqueline Scott,Boxing,Silver,40
+1915,Summer,USA,Amanda Pugh,Soccer,Gold,18
+1915,Summer,Australia,Brooke Thomas,Rowing,Silver,18
+1915,Summer,Australia,Jodi Fields,Athletics,Bronze,34
+1915,Summer,Germany,Michelle Butler,Swimming,Bronze,35
+1915,Summer,Russia,Alexandra Jones,Soccer,Gold,33
+1915,Summer,Italy,Julie Evans,Rowing,,31
+1915,Summer,Canada,Michael Brown,Gymnastics,Gold,29
+1915,Summer,Brazil,Ruth Potts,Athletics,,30
+1915,Summer,France,Sarah Gonzalez,Soccer,Gold,21
+1915,Summer,Japan,Carol Maddox,Cycling,Bronze,26
+1915,Summer,France,Reginald Leon,Boxing,Bronze,34
+1915,Summer,India,Tammy Wright,Gymnastics,Bronze,29
+1915,Summer,India,Colleen Hodges,Weightlifting,Gold,18
+1915,Summer,Germany,Angel Diaz,Swimming,Silver,28
+1915,Summer,South Korea,Margaret Garcia,Swimming,Bronze,26
+1915,Summer,USA,Julie Garcia,Weightlifting,Gold,28
+1915,Summer,China,Jeremy Conner,Athletics,Gold,24
+1915,Summer,UK,Ashley Alexander,Swimming,Silver,24
+1915,Summer,Russia,Michele Tran,Swimming,Gold,34
+1915,Summer,India,Samantha Hanna,Cycling,Silver,24
+1915,Summer,Japan,Christine Arnold,Tennis,,28
+1915,Summer,France,Veronica Bowman,Boxing,Bronze,37
+1915,Summer,Japan,Kimberly Vasquez,Rowing,Silver,26
+1915,Summer,USA,Vincent Morales,Basketball,,20
+1915,Summer,Australia,Scott Hernandez,Soccer,Gold,19
+1915,Summer,South Korea,Jamie Collins,Gymnastics,,24
+1915,Summer,Italy,Kristina Anderson,Athletics,Bronze,37
+1915,Summer,South Africa,Scott Gilbert,Swimming,Gold,38
+1915,Summer,India,Joanne Anderson,Soccer,Bronze,37
+1915,Summer,Canada,Tracy Miller,Basketball,Gold,26
+1915,Summer,India,Louis York,Soccer,Gold,33
+1915,Summer,Australia,Jason Gonzalez,Swimming,Gold,27
+1915,Summer,Russia,Rachel Mendoza,Tennis,Bronze,28
+1915,Summer,Canada,Nancy Brown,Rowing,,34
+1915,Summer,Brazil,Ann Lewis,Swimming,Bronze,22
+1915,Summer,France,Thomas Bowman,Gymnastics,Silver,36
+1915,Summer,UK,Rodney Turner,Tennis,,39
+1915,Summer,Japan,Hayley Kline,Cycling,,26
+1915,Summer,India,Paula Marshall,Boxing,Silver,25
+1915,Summer,Australia,Cindy Baker,Swimming,,21
+1915,Summer,Brazil,Mary Johnson,Tennis,Gold,20
+1915,Summer,South Korea,Anthony Price,Boxing,Gold,31
+1915,Summer,France,Andrea Mullen,Boxing,Silver,39
+1915,Summer,China,Sara Miles,Tennis,Gold,33
+1915,Summer,Germany,Danny Ponce,Gymnastics,Bronze,27
+1915,Summer,Australia,Debra Hardy,Tennis,Gold,30
+1915,Summer,Japan,Shawn Parker,Boxing,Bronze,23
+1915,Summer,USA,Michelle Gibson,Cycling,Bronze,35
+1915,Summer,India,Alex Nash,Athletics,Bronze,18
+1915,Summer,South Africa,Angela Serrano,Cycling,Gold,38
+1915,Summer,UK,Mr. Alex Fernandez,Swimming,,21
+1915,Summer,Italy,Jason Davis,Weightlifting,Silver,24
+1915,Summer,UK,Martha Abbott,Swimming,Gold,23
+1915,Summer,Japan,Latoya Fitzpatrick,Cycling,Bronze,38
+1915,Summer,France,Douglas Bailey,Cycling,Silver,18
+1915,Summer,South Korea,Sarah Ashley,Basketball,Bronze,23
+1915,Summer,Australia,Isaiah Green,Tennis,,18
+1915,Summer,Brazil,Angela Baker,Gymnastics,Gold,18
+1915,Summer,UK,Anita Moore,Soccer,,37
+1915,Summer,France,Alan Mcdonald,Soccer,Gold,29
+1915,Summer,India,Joshua Ford,Gymnastics,Bronze,34
+1915,Summer,Japan,Lisa Sanders,Weightlifting,Bronze,27
+1915,Summer,Russia,Joshua Singh,Soccer,Silver,28
+1915,Summer,South Africa,Dawn Guzman,Rowing,,38
+1915,Summer,Russia,Dennis Torres,Soccer,,38
+1915,Summer,Brazil,Gordon Knight,Athletics,Gold,36
+1915,Summer,USA,Tamara Wilson,Athletics,Silver,29
+1915,Summer,UK,Kristina Evans,Soccer,,20
+1915,Summer,South Korea,Steven Walter,Swimming,Gold,26
+1915,Summer,Japan,Shawn Yang,Gymnastics,Silver,27
+1915,Summer,UK,Taylor Mejia,Soccer,Bronze,37
+1915,Summer,China,Jennifer Jordan,Boxing,Bronze,39
+1915,Summer,China,Russell Phillips,Rowing,,24
+1915,Summer,India,Jimmy Rose,Basketball,,22
+1915,Summer,Germany,David Smith,Swimming,,25
+1915,Summer,South Africa,William Garcia,Gymnastics,Bronze,29
+1915,Summer,Brazil,Donald Davis,Rowing,Bronze,29
+1915,Summer,China,Kathleen Washington,Boxing,Bronze,20
+1915,Summer,Russia,Debbie Thomas,Athletics,Silver,24
+1915,Summer,China,Zachary Braun,Rowing,Silver,21
+1915,Summer,Canada,Daniel Sandoval,Soccer,,26
+1915,Summer,South Korea,Matthew Ortiz,Tennis,,38
+1915,Summer,South Africa,Matthew Johns,Swimming,Gold,21
+1915,Summer,India,Jeremiah Pugh,Tennis,Bronze,27
+1915,Summer,Germany,Robert Cisneros,Swimming,Gold,37
+1915,Summer,USA,Timothy Williams,Basketball,Silver,21
+1915,Summer,Canada,Robin Marshall,Athletics,Bronze,21
+1915,Summer,USA,Heather Brown,Weightlifting,Gold,35
+1915,Summer,USA,Shannon Alexander,Rowing,Silver,32
+1915,Summer,South Korea,Robert Wilcox,Weightlifting,,26
+1915,Summer,South Korea,Eric Holland,Weightlifting,,39
+1915,Summer,Germany,Nicole Fleming,Rowing,Gold,33
+1915,Summer,UK,Kaitlin Carter,Gymnastics,Gold,40
+1915,Summer,France,Robert Farley,Basketball,,40
+1915,Summer,Russia,Stanley Kramer,Swimming,,33
+1915,Summer,South Africa,Matthew Jones,Weightlifting,Bronze,20
+1915,Summer,Brazil,Jennifer Barber,Tennis,Gold,30
+1915,Summer,China,Blake Smith,Boxing,,38
+1915,Summer,Canada,Chelsea Lowery,Soccer,Silver,24
+1915,Summer,Canada,James Gutierrez,Weightlifting,Bronze,28
+1915,Summer,China,Dean Reynolds,Swimming,Bronze,38
+1915,Summer,Australia,Larry Flores,Swimming,Bronze,40
+1915,Summer,UK,Jessica Green,Swimming,,21
+1915,Summer,South Korea,Ashley Avila,Soccer,Bronze,18
+1915,Summer,South Korea,Kimberly Patterson,Athletics,Bronze,40
+1915,Summer,South Korea,Amanda Mack,Boxing,Bronze,28
+1915,Summer,Germany,Ricky Smith,Soccer,Silver,30
+1915,Summer,Russia,Jennifer Fowler,Cycling,Silver,37
+1915,Summer,Brazil,Bryan Foster,Cycling,Bronze,20
+1915,Summer,Japan,Douglas Hudson,Boxing,Gold,32
+1915,Summer,Japan,William Richards,Soccer,Bronze,25
+1915,Summer,China,Calvin Davis,Swimming,Gold,38
+1915,Summer,Japan,Shane Edwards,Athletics,Gold,28
+1915,Summer,USA,Kelly Gutierrez,Swimming,Bronze,29
+1915,Summer,Russia,Christopher Combs,Boxing,Bronze,22
+1915,Summer,Australia,Jason Taylor,Soccer,Bronze,37
+1915,Summer,UK,Carolyn Yu,Cycling,Silver,35
+1915,Summer,India,Jennifer Williams,Soccer,Gold,34
+1915,Summer,Brazil,Shelby Taylor,Gymnastics,,39
+1915,Summer,UK,Rebecca Gregory,Athletics,Bronze,37
+1915,Summer,Canada,Claudia Mcdowell,Athletics,Gold,19
+1915,Summer,USA,Julia Stout,Soccer,Gold,31
+1915,Summer,France,Danielle Johnson,Cycling,,30
+1915,Summer,USA,Richard Nixon,Boxing,Bronze,19
+1915,Summer,Australia,Robert Jackson,Tennis,Bronze,33
+1915,Summer,India,Lisa Thompson,Tennis,Gold,32
+1915,Summer,Japan,David Erickson,Tennis,Silver,20
+1915,Summer,UK,Ashley Johnson,Cycling,,35
+1915,Summer,China,Vanessa Roberson,Weightlifting,Silver,26
+1915,Summer,UK,Sonia White,Athletics,Silver,23
+1915,Summer,Russia,Shannon Ruiz,Rowing,Bronze,34
+1915,Summer,France,Heather Proctor,Weightlifting,Gold,40
+1915,Summer,Italy,Shane Herrera,Rowing,Gold,39
+1915,Summer,Germany,John Richardson,Rowing,Gold,24
+1915,Summer,Italy,Jeffery Brooks,Gymnastics,,31
+1915,Summer,Brazil,Lisa Hall,Cycling,Silver,20
+1915,Summer,Russia,Alexander Moody,Athletics,Silver,40
+1915,Summer,Canada,Kristi Jackson,Swimming,Silver,27
+1915,Summer,Italy,Jennifer Curry,Gymnastics,Gold,18
+1915,Summer,Russia,Kendra King,Gymnastics,Bronze,40
+1915,Summer,Australia,Johnny Smith,Tennis,,36
+1915,Summer,France,Pamela Marsh,Rowing,Bronze,40
+1915,Summer,Brazil,Catherine Russo,Basketball,,26
+1915,Summer,Canada,Ralph Dickerson,Weightlifting,Gold,33
+1915,Summer,UK,Patricia Williams,Swimming,Gold,29
+1915,Summer,Brazil,Angela Ray,Swimming,,29
+1915,Summer,South Korea,Joseph Young,Boxing,Gold,33
+1915,Summer,Australia,Erik Arnold,Athletics,Bronze,28
+1915,Summer,South Africa,Andrea Miles,Swimming,Silver,25
+1915,Summer,France,Nicole Kelley,Weightlifting,Bronze,33
+1915,Summer,Russia,Holly Jones,Cycling,,19
+1915,Summer,India,Lauren Vasquez,Basketball,,28
+1915,Summer,South Africa,Phillip Wright DVM,Rowing,Gold,26
+1915,Summer,Australia,Jonathan Simpson,Weightlifting,,34
+1915,Summer,India,Katelyn Carpenter,Soccer,,28
+1915,Summer,Australia,Amanda Gonzalez,Boxing,Gold,30
+1915,Summer,USA,Gabrielle Smith,Weightlifting,Silver,33
+1915,Summer,Australia,Linda Burgess,Basketball,,22
+1915,Summer,Australia,Meredith Barnett,Gymnastics,Gold,33
+1915,Summer,Russia,Samantha Williams,Tennis,,35
+1915,Summer,France,Jeffrey Schneider,Boxing,,40
+1915,Summer,China,Anthony Irwin,Weightlifting,Bronze,18
+1915,Summer,South Korea,Jermaine Rose,Cycling,Gold,25
+1915,Summer,Italy,Stephen Brown,Soccer,,39
+1915,Summer,South Korea,Timothy Orozco,Tennis,Bronze,28
+1915,Summer,South Korea,Alex Larsen,Tennis,,27
+1915,Summer,USA,Rodney Carter,Boxing,,29
+1915,Summer,Germany,Kimberly Mccarthy,Cycling,,19
+1915,Summer,South Africa,Stephanie Larson,Soccer,,29
+1915,Summer,South Africa,Elizabeth Johnson,Basketball,Silver,37
+1915,Summer,Germany,Christopher Stevens,Swimming,Gold,19
+1915,Summer,Russia,Mark Obrien,Basketball,Silver,40
+1915,Summer,UK,Daisy Gibson,Weightlifting,Gold,20
+1915,Summer,Russia,Tiffany Jackson,Rowing,Bronze,39
+1915,Summer,France,Makayla Pierce,Boxing,Bronze,22
+1915,Summer,Canada,Carolyn Valencia,Soccer,Gold,20
+1915,Summer,Canada,Shane Bond,Swimming,Gold,34
+1915,Summer,Japan,Christian Lewis,Soccer,,38
+1915,Summer,Canada,Jamie Cox,Soccer,,35
+1915,Summer,Russia,Alex Taylor,Athletics,,22
+1915,Summer,France,James Smith,Soccer,,24
+1915,Summer,South Korea,Steven Spencer,Basketball,Bronze,27
+1915,Summer,South Africa,Vanessa Morales,Soccer,Silver,28
+1915,Summer,Australia,Derek Parker,Basketball,Gold,26
+1915,Summer,Italy,Ashley Miller,Soccer,Gold,33
+1915,Summer,Italy,Chad Donovan,Swimming,,40
+1915,Summer,Russia,Kaitlyn Parker,Weightlifting,Bronze,19
+1915,Summer,Canada,Nicole Allen,Gymnastics,,35
+1915,Summer,Brazil,Thomas Goodwin,Swimming,Gold,19
+1915,Summer,China,Chad Wade,Basketball,,28
+1915,Summer,France,William Smith,Basketball,Bronze,36
+1915,Summer,India,James Miller,Basketball,Gold,32
+1915,Summer,Germany,Megan Holt,Basketball,Gold,29
+1915,Summer,Canada,Frank Curtis,Weightlifting,Gold,39
+1915,Summer,South Korea,Jacob Schwartz,Weightlifting,,35
+1915,Summer,USA,Shelly Lamb,Gymnastics,Gold,33
+1915,Summer,South Africa,Ashley Spencer,Boxing,Gold,30
+1915,Summer,South Korea,Donald Anderson,Boxing,Gold,30
+1915,Summer,Brazil,Katherine Olson,Rowing,Bronze,39
+1915,Summer,UK,Dr. Nancy Torres DDS,Swimming,Gold,35
+1915,Summer,Brazil,Nancy Perry,Weightlifting,Silver,28
+1915,Summer,Russia,Amber Schultz,Tennis,,28
+1915,Summer,UK,Leslie Kramer,Swimming,Bronze,26
+1915,Summer,India,Tammy Boyle,Tennis,Silver,19
+1915,Summer,China,Richard Cochran,Cycling,Silver,35
+1915,Summer,Italy,Dan Page,Weightlifting,,20
+1915,Summer,Brazil,Laura Nelson,Swimming,Bronze,19
+1915,Summer,South Africa,Catherine Rodriguez,Athletics,Bronze,27
+1915,Summer,Russia,Victoria Hendricks,Basketball,Silver,36
+1915,Summer,USA,Robert Brady,Basketball,Bronze,37
+1915,Summer,UK,Desiree King,Soccer,,39
+1915,Summer,Russia,Rhonda West,Soccer,Silver,20
+1915,Summer,Brazil,Linda Patton,Soccer,Silver,26
+1915,Summer,South Korea,John Williams,Rowing,Silver,28
+1915,Summer,China,Jason Rice,Swimming,Bronze,37
+1915,Summer,Brazil,Hannah Freeman,Gymnastics,Silver,22
+1915,Summer,Russia,Mary Long,Rowing,Bronze,20
+1915,Summer,Russia,Alexandria Garcia,Cycling,Gold,28
+1915,Summer,India,Eric Hart,Gymnastics,Gold,24
+1915,Summer,Australia,Rachael Shaw,Rowing,Silver,18
+1915,Summer,Japan,Shannon King,Athletics,Silver,24
+1915,Summer,China,Angela Hurst,Basketball,Gold,37
+1915,Summer,UK,Kimberly Garrison,Tennis,Bronze,22
+1915,Summer,Russia,Joel Hart,Swimming,Silver,29
+1915,Summer,Brazil,Norma Oneill,Swimming,Gold,24
+1915,Summer,Japan,Erika Tanner,Athletics,,25
+1915,Summer,India,Angela Kelley,Boxing,Gold,18
+1915,Summer,South Africa,Joseph Bates,Weightlifting,,34
+1915,Summer,UK,Robert Fox,Basketball,,40
+1915,Summer,USA,Dennis Brown,Soccer,Gold,18
+1915,Summer,India,Michael Hall,Tennis,,22
+1915,Summer,Canada,Crystal Nelson,Weightlifting,Silver,21
+1915,Summer,South Korea,April Wood,Soccer,,32
+1915,Summer,UK,Brian Gardner,Boxing,Bronze,21
+1915,Summer,Australia,Christopher Diaz,Rowing,Silver,21
+1915,Summer,France,Jennifer Livingston,Tennis,,40
+1915,Summer,Japan,Candice Boone,Athletics,Silver,21
+1915,Summer,Germany,Christopher Benjamin,Athletics,Gold,35
+1915,Summer,China,Robert Little,Cycling,,28
+1915,Summer,Canada,Brian Dillon,Gymnastics,Silver,27
+1915,Summer,Italy,James Patterson,Swimming,Bronze,22
+1915,Summer,China,Taylor Wheeler,Rowing,Silver,18
+1915,Summer,Russia,Jessica Macdonald,Weightlifting,Bronze,18
+1915,Summer,UK,Mark Fletcher,Cycling,Gold,25
+1915,Summer,USA,Nathan Keller,Rowing,Bronze,25
+1915,Summer,South Africa,Ashley Aguilar,Rowing,,23
+1915,Summer,Australia,Deborah Graves,Tennis,,30
+1915,Summer,Brazil,Randy Johnson,Weightlifting,,38
+1915,Summer,Brazil,Angel Roth,Boxing,Silver,25
+1915,Summer,South Korea,Theresa Kennedy,Boxing,Silver,37
+1915,Summer,South Korea,Mary Powell,Soccer,Silver,36
+1915,Summer,Japan,Douglas Bell,Rowing,Bronze,40
+1915,Summer,UK,George Santos,Soccer,Bronze,26
+1915,Summer,India,Heather Smith,Boxing,Silver,27
+1915,Summer,France,Sandra Lee,Swimming,Gold,36
+1915,Summer,South Korea,Christopher Acosta,Athletics,Silver,26
+1915,Summer,Japan,Jillian Kelly,Rowing,Bronze,35
+1915,Summer,Germany,Allison Reese,Soccer,Gold,28
+1915,Summer,Japan,Marilyn Wolf,Weightlifting,Silver,21
+1915,Summer,Italy,Jordan Sosa,Tennis,Gold,19
+1915,Summer,UK,Emily Roberts,Cycling,Silver,27
+1915,Summer,Australia,Erica Singleton,Weightlifting,Silver,37
+1915,Summer,Japan,Heidi Moss,Weightlifting,Silver,27
+1915,Summer,China,Autumn Olson,Boxing,,27
+1915,Summer,Russia,Kari Morales,Swimming,,37
+1915,Summer,China,Mary Perez,Soccer,,23
+1915,Summer,USA,Nicholas Taylor,Basketball,,32
+1915,Summer,Japan,Adam Bradley,Boxing,Gold,40
+1915,Summer,China,Dakota Santos,Rowing,,27
+1915,Summer,Australia,David Lee,Soccer,Gold,35
+1915,Summer,Russia,Mark Lewis,Soccer,Gold,21
+1915,Summer,China,Jasmine Mcgee,Weightlifting,,31
+1915,Summer,India,Justin Thomas,Boxing,Bronze,27
+1915,Summer,Canada,Deborah Arnold,Gymnastics,Gold,27
+1915,Summer,Italy,Robert Price,Soccer,,37
+1915,Summer,India,Kristin Aguilar,Gymnastics,Silver,21
+1915,Summer,UK,John Arnold,Boxing,Gold,27
+1915,Summer,Germany,Kylie Rich,Athletics,Gold,23
+1915,Summer,Japan,Martin Murray,Rowing,Silver,30
+1915,Summer,India,Shannon Arias,Boxing,Gold,36
+1915,Summer,India,Alyssa Jones,Cycling,Gold,23
+1915,Summer,France,Christine Young,Swimming,Gold,30
+1915,Summer,Russia,Tara Smith,Athletics,Bronze,22
+1915,Summer,China,Lori Sullivan,Soccer,,19
+1915,Summer,UK,Thomas Simpson,Rowing,Gold,35
+1915,Summer,Canada,Gregory Johnson,Boxing,Gold,40
+1915,Summer,France,Benjamin Hansen,Athletics,Silver,38
+1915,Summer,UK,James Lopez,Weightlifting,Bronze,31
+1915,Summer,South Korea,Kelly Ramos,Boxing,Bronze,29
+1915,Summer,Canada,John Taylor,Tennis,Gold,30
+1915,Summer,South Korea,Nicole Brooks,Gymnastics,Silver,31
+1915,Summer,Canada,Nicole Lopez,Boxing,Bronze,24
+1915,Summer,South Africa,Joshua Stewart,Gymnastics,Silver,19
+1915,Summer,USA,Daniel Brown,Cycling,Bronze,32
+1915,Summer,Germany,Brenda Warner,Tennis,Gold,22
+1915,Summer,Australia,Elizabeth Higgins,Boxing,Bronze,26
+1915,Summer,Japan,Martha Grant,Weightlifting,Gold,28
+1915,Summer,India,Austin Hampton,Tennis,Silver,21
+1915,Summer,China,Kelly Baker,Tennis,Bronze,24
+1915,Summer,Russia,John Smith,Soccer,,28
+1915,Summer,Australia,Jill Lee,Boxing,Silver,24
+1915,Summer,Australia,Dawn Martinez,Boxing,Silver,24
+1915,Summer,Australia,Jennifer Davis,Cycling,Silver,20
+1915,Summer,China,James Jones,Cycling,Silver,28
+1915,Summer,Australia,Steven Moore,Cycling,Bronze,29
+1915,Summer,Australia,Gary Roman,Athletics,Bronze,35
+1915,Summer,Japan,Alicia Gonzalez,Cycling,Silver,40
+1915,Summer,Russia,Carolyn Orozco,Athletics,,32
+1915,Summer,Italy,Alyssa Gray,Rowing,,32
+1915,Summer,South Africa,Christopher Rhodes,Basketball,,31
+1915,Summer,Australia,Rachel Giles,Swimming,Bronze,27
+1915,Summer,Italy,Erica Dillon,Cycling,Silver,25
+1915,Summer,Canada,Troy White,Soccer,Bronze,38
+1915,Summer,France,Danielle Dunlap,Soccer,,22
+1915,Summer,Italy,Erin Simpson,Basketball,Bronze,31
+1915,Summer,USA,Holly Huff,Rowing,,38
+1915,Summer,Canada,Stacey Thomas,Gymnastics,Silver,30
+1915,Summer,Japan,Sandy Hernandez,Swimming,Bronze,28
+1915,Summer,Germany,Marcus Thomas,Boxing,Bronze,26
+1915,Summer,Canada,Whitney Livingston,Athletics,Bronze,30
+1915,Summer,Australia,Shane Pearson,Rowing,Gold,23
+1915,Summer,South Korea,Kelly Cross,Athletics,Gold,25
+1915,Summer,Russia,Valerie Nunez,Boxing,,18
+1915,Summer,South Korea,Denise Peterson,Cycling,,40
+1915,Summer,Brazil,Theresa Boyd,Weightlifting,,23
+1915,Summer,Germany,Zachary Johnson,Weightlifting,Gold,22
+1915,Summer,USA,Jenny Barnett,Soccer,Gold,24
+1915,Summer,Canada,Scott Mack,Tennis,,19
+1915,Summer,Brazil,Tanya Young,Cycling,,23
+1915,Summer,Italy,Dillon Ware,Rowing,Bronze,26
+1915,Summer,Germany,Susan Austin DVM,Gymnastics,Gold,32
+1915,Summer,France,Danielle Moore,Swimming,Silver,25
+1915,Summer,France,Joshua Brennan,Swimming,Silver,34
+1915,Summer,China,Christopher Davis,Soccer,Gold,34
+1915,Summer,Russia,Emily Elliott,Soccer,,37
+1915,Summer,Brazil,William Travis,Gymnastics,Gold,28
+1915,Summer,Italy,Hannah Aguilar,Boxing,,39
+1915,Summer,South Africa,Mr. David Boyd,Gymnastics,Gold,20
+1915,Summer,Russia,Mr. Michael Torres DDS,Basketball,Bronze,36
+1915,Summer,Canada,Crystal Brown,Soccer,Silver,26
+1915,Summer,China,Todd Harris,Tennis,,19
+1915,Summer,USA,Brian Jones,Soccer,Gold,40
+1915,Summer,India,Christopher Wilson,Boxing,,25
+1915,Summer,USA,Carolyn Knight,Soccer,Bronze,24
+1915,Summer,Canada,James Huynh,Basketball,Gold,20
+1915,Summer,South Korea,Joshua Gardner,Boxing,,28
+1915,Summer,Brazil,Joanne Barton,Gymnastics,Silver,28
+1915,Summer,France,Susan Turner,Weightlifting,Silver,30
+1915,Summer,Japan,Jennifer Clark,Tennis,Gold,34
+1915,Summer,Russia,Anna Alexander,Swimming,Gold,32
+1915,Summer,Canada,Michael Goodwin,Boxing,,27
+1915,Summer,Canada,Matthew Patrick,Weightlifting,Silver,25
+1915,Summer,USA,Jason Ortiz,Tennis,Gold,29
+1915,Summer,South Africa,Vanessa Davis,Athletics,,34
+1915,Summer,Australia,Brenda Hess,Athletics,Bronze,18
+1915,Summer,France,Angel Spencer,Gymnastics,Gold,33
+1915,Summer,South Africa,Wendy Rice,Weightlifting,,25
+1915,Summer,South Korea,Tammy Perry,Athletics,Gold,31
+1915,Summer,UK,Stephen Perez,Soccer,Silver,36
+1915,Summer,Italy,Samantha Hunt,Boxing,Gold,19
+1915,Summer,South Africa,Jenna Gonzalez,Swimming,Gold,29
+1915,Summer,South Korea,Angela Robinson,Soccer,Bronze,28
+1915,Summer,South Korea,Michael Wong,Gymnastics,,31
+1915,Summer,Germany,Pamela Fernandez,Tennis,Silver,21
+1915,Summer,Italy,Chad Palmer,Boxing,Bronze,24
+1915,Summer,China,Misty Mejia,Weightlifting,,21
+1915,Summer,Canada,Sheri Butler,Gymnastics,,26
+1915,Summer,Italy,Christopher Montoya,Athletics,Gold,36
+1915,Summer,Italy,James Jones,Soccer,,25
+1915,Summer,China,Megan Jackson,Tennis,,23
+1915,Summer,Japan,Eric Reed,Gymnastics,,36
+1915,Summer,Brazil,William Sellers,Weightlifting,Silver,35
+1915,Summer,Australia,Eric Alexander,Weightlifting,Gold,33
+1915,Summer,USA,Jessica Marshall,Cycling,Bronze,36
+1915,Summer,South Korea,Eugene Turner,Basketball,Bronze,21
+1915,Summer,UK,Kyle Smith,Gymnastics,Gold,39
+1915,Summer,India,Alicia Martin,Boxing,,19
+1915,Summer,India,Megan Gray,Cycling,Silver,32
+1915,Summer,USA,Luis Martin,Swimming,Gold,37
+1915,Summer,South Africa,Jamie Hale,Athletics,Bronze,30
+1915,Summer,Japan,Mary Ferrell,Cycling,Bronze,22
+1915,Summer,Russia,Kenneth Hunter,Tennis,,32
+1915,Summer,USA,Leslie Collins,Weightlifting,,24
+1915,Summer,Japan,Charles Arnold,Weightlifting,Gold,19
+1915,Summer,China,Alyssa Yates,Weightlifting,Bronze,27
+1915,Summer,Canada,Rita Williams,Tennis,Gold,21
+1915,Summer,India,Melissa Keith,Soccer,Bronze,27
+1915,Summer,Australia,Dr. Paige White,Boxing,,31
+1915,Summer,France,Jennifer Daniels,Basketball,,37
+1915,Summer,Canada,Justin Ross,Rowing,,20
+1915,Summer,Italy,Scott Carroll,Athletics,Gold,24
+1915,Summer,Russia,Kelly Young,Gymnastics,Bronze,26
+1915,Summer,Germany,Kelly Moon,Athletics,,33
+1915,Summer,India,James Mendoza,Basketball,,20
+1915,Summer,USA,Aaron Robinson,Cycling,,28
+1915,Summer,China,Bryan Lopez,Athletics,,18
+1915,Summer,Australia,Jonathan Lewis,Tennis,Gold,35
+1915,Summer,Germany,Chase Wallace,Boxing,Bronze,33
+1915,Summer,China,Jacqueline Rodriguez,Athletics,Silver,27
+1915,Summer,China,Michelle Marshall,Basketball,,25
+1915,Summer,Italy,Melissa Ray,Gymnastics,,29
+1915,Summer,Italy,Gabriella Brown,Gymnastics,Silver,20
+1915,Summer,South Korea,William Thomas,Boxing,Gold,20
+1915,Summer,India,Ashlee Johnson,Soccer,Gold,23
+1915,Summer,India,Kelly Stone,Weightlifting,Gold,20
+1915,Summer,USA,Linda Carlson,Swimming,Gold,24
+1915,Summer,France,Monica Green,Soccer,,22
+1915,Summer,Canada,Daniel Gibson,Athletics,Bronze,35
+1915,Summer,USA,Howard Mckee,Tennis,Silver,26
+1915,Summer,South Korea,Nicholas Larson,Swimming,Silver,38
+1915,Summer,Brazil,Alexis Johnson,Athletics,Silver,22
+1915,Summer,India,Catherine Conner,Basketball,Gold,36
+1915,Summer,UK,Kelly Mcmillan,Cycling,Silver,20
+1915,Summer,China,Michael Lopez MD,Weightlifting,Bronze,20
+1915,Summer,Japan,Vanessa Bailey,Soccer,,24
+1915,Summer,France,Tamara Miller,Swimming,,39
+1915,Summer,China,Brooke Schmitt,Gymnastics,Silver,25
+1915,Summer,India,Shawn Manning,Boxing,Silver,29
+1915,Summer,Brazil,John Decker,Swimming,Bronze,26
+1915,Summer,Australia,Kelli Hughes,Cycling,Gold,22
+1915,Summer,UK,Robert Gutierrez,Soccer,Gold,19
+1915,Summer,Canada,Gary Hall,Soccer,Bronze,27
+1915,Summer,Japan,Jamie Hill,Swimming,Silver,35
+1915,Summer,India,Melissa Soto,Tennis,Silver,40
+1915,Summer,Japan,Ashley Maldonado,Swimming,,25
+1915,Summer,Brazil,Kelly Ward,Weightlifting,Silver,36
+1915,Summer,Canada,Alicia Woods,Rowing,Gold,40
+1915,Summer,Brazil,Francisco Charles,Soccer,Gold,21
+1915,Summer,Canada,Dana Smith,Athletics,,32
+1915,Summer,France,Vanessa Alvarez,Boxing,,25
+1915,Summer,France,Lauren Hall,Athletics,,19
+1915,Summer,UK,Julie King,Cycling,,26
+1915,Summer,France,Tiffany Hansen,Soccer,Gold,38
+1915,Summer,USA,Richard Mendoza,Swimming,Gold,24
+1915,Summer,France,Derrick White,Tennis,Bronze,37
+1915,Summer,India,Matthew Carr,Basketball,Gold,35
+1915,Summer,France,Logan Sandoval,Athletics,Bronze,24
+1915,Summer,Canada,Christopher Davis,Boxing,,34
+1915,Summer,Germany,Jacob Rosales,Cycling,Gold,24
+1915,Summer,UK,Nicholas Wood,Tennis,Gold,22
+1915,Summer,South Africa,Marvin James,Weightlifting,Bronze,34
+1915,Summer,India,Denise Tucker,Rowing,Bronze,27
+1915,Summer,Canada,Mary Cline,Rowing,Gold,35
+1915,Summer,India,Nathan Wilson,Athletics,Gold,18
+1915,Summer,Italy,Alexander Sherman,Soccer,Silver,24
+1915,Summer,UK,Scott Sherman,Gymnastics,,18
+1915,Summer,UK,Lawrence Smith,Athletics,Gold,22
+1915,Summer,Italy,Edward Gonzalez,Swimming,,18
+1915,Summer,South Korea,Mark Martinez,Rowing,,34
+1915,Summer,UK,Christopher Reeves,Weightlifting,Gold,19
+1915,Summer,Australia,Anthony Schwartz,Tennis,,35
+1915,Summer,UK,Kimberly Murray,Basketball,Gold,38
+1915,Summer,UK,Dr. Wendy Johnson,Boxing,Silver,35
+1915,Summer,Brazil,Lisa Martinez,Athletics,Silver,33
+1915,Summer,India,Alexa Gentry,Soccer,Bronze,40
+1915,Summer,Germany,Kim Poole,Cycling,Gold,22
+1915,Summer,Russia,Perry Ayers,Rowing,Gold,36
+1915,Summer,Brazil,Yvonne Butler,Rowing,Bronze,21
+1915,Summer,South Africa,Brian Navarro,Weightlifting,,26
+1915,Summer,UK,Frank Young,Cycling,Gold,36
+1915,Summer,China,Jeffrey Rodriguez,Weightlifting,,26
+1915,Summer,Russia,Chad Rubio,Athletics,Gold,23
+1915,Summer,USA,Erin Mckenzie DDS,Gymnastics,Gold,23
+1915,Summer,South Africa,Randy Davis,Tennis,,38
+1915,Summer,France,Michael Molina MD,Boxing,,38
+1915,Summer,UK,Brian Anderson DVM,Weightlifting,Gold,24
+1915,Summer,South Korea,Austin Bullock,Tennis,Gold,18
+1915,Summer,UK,Lori Charles,Gymnastics,Bronze,34
+1915,Summer,South Africa,Chad King,Weightlifting,Silver,32
+1915,Summer,India,Kevin Pierce,Boxing,Silver,28
+1915,Summer,Russia,Julia Zuniga,Tennis,,25
+1915,Summer,France,Joanna Hanson,Cycling,,33
+1915,Summer,Brazil,Susan Watts,Rowing,Silver,33
+1915,Summer,Germany,Luis Smith,Soccer,Bronze,27
+1915,Summer,USA,Ryan Smith,Weightlifting,Bronze,36
+1915,Summer,Australia,Samantha Santana,Tennis,,23
+1915,Summer,USA,Tyler Bishop,Athletics,,26
+1915,Summer,UK,Nicholas Tyler,Rowing,Gold,30
+1915,Summer,Canada,Christopher Zhang,Athletics,Gold,27
+1915,Summer,Italy,Sandra Barrett,Cycling,Bronze,26
+1915,Summer,Australia,Tammy Stevens,Basketball,,35
+1915,Summer,Japan,Benjamin Willis,Swimming,Gold,40
+1915,Summer,Brazil,Lydia Powell,Tennis,,29
+1915,Summer,USA,Sean Scott,Boxing,,18
+1915,Summer,Italy,Donald Knox,Cycling,Bronze,25
+1915,Summer,Japan,Lauren Bowman,Boxing,,32
+1915,Summer,South Korea,Jennifer Clark,Gymnastics,Gold,37
+1915,Summer,Australia,Timothy Howard,Basketball,,39
+1915,Summer,China,Vanessa Wise,Tennis,Gold,23
+1915,Summer,UK,Cesar White,Tennis,,24
+1915,Summer,France,Janet Howard,Swimming,Bronze,22
+1915,Summer,South Africa,David Lee,Tennis,Gold,24
+1915,Summer,Australia,Joe Peters,Rowing,Silver,31
+1915,Summer,UK,Danielle Clark,Soccer,Gold,20
+1915,Summer,Japan,Paul Mccullough,Athletics,Silver,19
+1915,Summer,Canada,Sara Stuart,Weightlifting,Gold,18
+1915,Summer,Russia,Traci Wright,Soccer,Silver,38
+1915,Summer,Canada,Scott Nichols,Tennis,Bronze,18
+1915,Summer,Brazil,Peter Spears,Gymnastics,Silver,32
+1915,Summer,Canada,Kyle Lawson,Athletics,Silver,27
+1915,Summer,Canada,Kenneth Johnson,Basketball,,31
+1915,Summer,USA,Lisa Lewis,Swimming,Bronze,31
+1915,Summer,Russia,Carol Thompson,Boxing,Silver,35
+1915,Summer,Japan,Jason Myers,Gymnastics,,29
+1915,Summer,India,Michelle Hampton,Gymnastics,Bronze,34
+1915,Summer,UK,Rebecca White,Boxing,Bronze,30
+1915,Summer,Australia,Michelle Rasmussen,Basketball,Gold,32
+1915,Summer,UK,Sergio Gonzalez,Athletics,Bronze,19
+1915,Summer,UK,Matthew Willis,Cycling,Silver,29
+1915,Summer,UK,Jessica Cooper,Soccer,,29
+1915,Summer,South Korea,Jill Bray,Swimming,Gold,31
+1915,Summer,Canada,Danielle Espinoza,Boxing,Bronze,38
+1915,Summer,Italy,Jeffrey Mack,Weightlifting,Bronze,24
+1915,Summer,UK,Lauren Brown,Soccer,Gold,30
+1915,Summer,India,Daniel Matthews,Athletics,Bronze,29
+1915,Summer,Brazil,Joseph Snyder,Boxing,Gold,36
+1915,Summer,Japan,Carly Klein,Basketball,,21
+1915,Summer,South Korea,Kyle Smith,Gymnastics,,40
+1915,Summer,Russia,Nicole Estrada,Tennis,Bronze,31
+1915,Summer,UK,Joyce Kelly,Soccer,Bronze,40
+1915,Summer,UK,Angel Harris,Tennis,,19
+1915,Summer,South Africa,Colleen Mack,Soccer,Silver,37
+1915,Summer,China,Stephen Carpenter,Gymnastics,Gold,24
+1915,Summer,Australia,Amber Smith,Tennis,,25
+1915,Summer,USA,Michael Mills,Gymnastics,Silver,28
+1915,Summer,UK,Jamie Aguilar,Rowing,Gold,39
+1915,Summer,Australia,Patrick White,Boxing,Gold,25
+1915,Summer,Italy,Teresa Jordan DDS,Swimming,Silver,33
+1915,Summer,France,Madison Smith,Athletics,Gold,34
+1915,Summer,Canada,Shawn Ingram,Swimming,Bronze,26
+1915,Summer,France,Danny Montoya,Gymnastics,,32
+1915,Summer,South Africa,Elizabeth Weiss,Tennis,Silver,38
+1915,Summer,Germany,Douglas Bishop,Rowing,Silver,20
+1915,Summer,Japan,Donna Moore,Boxing,,19
+1915,Summer,France,Timothy Pace,Cycling,Bronze,32
+1915,Summer,Japan,Scott Garcia,Athletics,Silver,34
+1915,Summer,Germany,Donald Glover,Tennis,,40
+1915,Summer,Italy,Kayla Holmes,Boxing,Bronze,18
+1915,Summer,South Korea,James Zuniga,Soccer,Silver,33
+1915,Summer,Italy,Tracy Powers,Weightlifting,Gold,33
+1915,Summer,Brazil,Christine Brown,Athletics,,32
+1915,Summer,USA,Gary Berger,Weightlifting,,35
+1915,Summer,India,Kevin Barrett,Tennis,Bronze,23
+1915,Summer,Germany,Michael Lawson,Swimming,Silver,24
+1915,Summer,UK,Danny Crosby,Basketball,Bronze,32
+1915,Summer,Brazil,James Mcintyre,Tennis,,38
+1915,Summer,UK,Justin Taylor,Rowing,Silver,21
+1915,Summer,Italy,Jasmine Pena,Gymnastics,,24
+1915,Summer,UK,Samuel Richards,Boxing,Gold,30
+1915,Summer,Germany,Connor Terry,Cycling,Bronze,35
+1915,Summer,Brazil,Lindsay Murphy,Cycling,,32
+1915,Summer,Japan,Elizabeth Hill,Tennis,Gold,38
+1915,Summer,China,Jeffrey Reynolds,Weightlifting,Bronze,36
+1915,Summer,South Africa,Lonnie Gonzales,Soccer,Bronze,39
+1915,Summer,India,Douglas Davenport,Cycling,Silver,18
+1915,Summer,South Africa,Catherine Wood,Weightlifting,,36
+1915,Summer,China,Stephanie Bowers,Gymnastics,Gold,21
+1915,Summer,France,Sydney Rodriguez,Athletics,Gold,37
+1915,Summer,Brazil,Dana Leon,Athletics,Silver,39
+1915,Summer,Germany,Jesus Hughes,Tennis,Gold,25
+1915,Summer,Italy,Brian Castro,Weightlifting,Silver,33
+1915,Summer,South Africa,Felicia Fernandez,Cycling,Silver,30
+1915,Summer,Germany,Paul Giles,Rowing,Silver,36
+1915,Summer,USA,David Anderson,Athletics,Silver,35
+1915,Summer,UK,Terri Long,Rowing,Silver,20
+1915,Summer,China,Michele Howard,Swimming,Bronze,36
+1915,Summer,Japan,Carol Jenkins,Boxing,Bronze,37
+1915,Summer,South Korea,Charlene Velasquez,Swimming,,22
+1915,Summer,South Korea,Holly Rosales,Tennis,Bronze,19
+1915,Summer,USA,Rachel Rivera,Cycling,Silver,24
+1915,Summer,France,Matthew Fitzgerald,Soccer,Gold,37
+1915,Summer,Russia,Caleb Singleton,Athletics,,29
+1915,Summer,Japan,Jeffrey Jones,Rowing,Gold,22
+1915,Summer,Canada,Cynthia Taylor,Basketball,Gold,19
+1915,Summer,Russia,Michael Meza,Soccer,Gold,22
+1915,Summer,UK,Kevin Rodriguez,Tennis,Gold,40
+1915,Summer,Japan,Todd Clayton,Rowing,Bronze,33
+1915,Summer,Canada,Jacob Cohen,Athletics,,36
+1915,Summer,UK,Antonio Price,Weightlifting,Silver,33
+1915,Summer,UK,Melinda Graham,Rowing,Silver,40
+1915,Summer,Brazil,Jennifer Simpson,Rowing,Bronze,18
+1915,Summer,USA,James Wilson,Rowing,Bronze,30
+1915,Summer,China,Dustin Fox,Tennis,Bronze,19
+1915,Summer,France,Bailey Holland,Gymnastics,Silver,32
+1915,Summer,South Korea,Christina Brown,Soccer,,27
+1915,Summer,Italy,Jaclyn Mills,Gymnastics,Bronze,34
+1915,Summer,USA,Mr. Adam Schroeder DVM,Cycling,Silver,37
+1915,Summer,Germany,Benjamin Carr,Weightlifting,Bronze,29
+1915,Summer,Russia,Diane Brennan,Basketball,Gold,35
+1915,Summer,South Korea,Tracy Harris,Weightlifting,Silver,36
+1915,Summer,Italy,Alex Hall,Athletics,Silver,20
+1915,Summer,Canada,Jordan Baxter,Tennis,Gold,28
+1915,Summer,France,Janet Sellers,Athletics,Gold,27
+1915,Summer,Australia,Miguel Randall,Weightlifting,Silver,22
+1915,Summer,India,Karen Bradley,Weightlifting,Silver,39
+1915,Summer,South Africa,Frederick Ross,Tennis,Bronze,36
+1915,Summer,Brazil,Joseph Meyer,Tennis,,20
+1915,Summer,France,Lisa Lopez,Athletics,Bronze,35
+1915,Summer,Russia,Karen Huerta,Weightlifting,Silver,23
+1915,Summer,USA,Andrea Rivera,Rowing,Silver,28
+1915,Summer,South Africa,Emily Thomas,Soccer,Bronze,20
+1915,Summer,Canada,Rebekah Brown,Basketball,Gold,21
+1915,Summer,Russia,Sandra Aguilar,Weightlifting,,39
+1915,Summer,Italy,Joseph King,Gymnastics,Bronze,39
+1915,Summer,UK,Shawna Monroe,Boxing,,39
+1915,Summer,India,Tyler Allen,Basketball,,32
+1915,Summer,Canada,Mary Rivas,Weightlifting,Gold,38
+1915,Summer,Japan,Tammy Nielsen,Athletics,,39
+1915,Summer,India,Darrell Cox,Swimming,Bronze,28
+1915,Summer,South Korea,Paul Brooks,Weightlifting,Silver,33
+1915,Summer,France,Linda Melendez,Cycling,,18
+1915,Summer,Brazil,Jennifer Hart,Tennis,Gold,20
+1915,Summer,Canada,Shawn White,Gymnastics,Gold,28
+1915,Summer,India,Monica Gonzalez,Gymnastics,,23
+1915,Summer,Australia,Angel Lewis,Weightlifting,Silver,31
+1915,Summer,Italy,Randy Kemp,Boxing,Gold,31
+1915,Summer,China,Heather Santana,Tennis,Bronze,32
+1915,Summer,USA,Crystal Davis,Cycling,Silver,20
+1915,Summer,South Korea,John Valenzuela,Boxing,Gold,27
+1915,Summer,South Korea,Penny Reed,Gymnastics,Gold,29
+1915,Summer,South Africa,Michael Shelton,Athletics,Silver,25
+1915,Summer,Italy,Wanda Tran,Rowing,Silver,39
+1915,Summer,Russia,Mr. Henry Reed,Basketball,Bronze,32
+1915,Summer,South Africa,Julia Douglas,Cycling,,29
+1915,Summer,South Africa,Julie Richardson,Boxing,Bronze,21
+1915,Summer,Canada,Andrew Blake,Soccer,Silver,37
+1915,Summer,Russia,Henry Walker,Soccer,,21
+1915,Summer,Germany,Melanie Richardson,Weightlifting,Gold,37
+1915,Summer,Brazil,Michael Stokes,Boxing,,29
+1915,Summer,Brazil,Kathy White,Soccer,Gold,28
+1915,Summer,Brazil,Betty Bennett,Swimming,Silver,23
+1915,Summer,Germany,Eric Powell,Weightlifting,Silver,35
+1915,Summer,Russia,Collin Howard,Weightlifting,Gold,19
+1915,Summer,France,Heather Ramos,Cycling,,28
+1915,Summer,South Africa,Laura Brown,Soccer,Bronze,33
+1915,Summer,USA,Andrew Henry,Basketball,Bronze,33
+1915,Summer,Canada,Casey Lloyd,Gymnastics,,30
+1915,Summer,Russia,Elizabeth Lyons,Soccer,Gold,18
+1915,Summer,UK,David Thompson,Boxing,Gold,38
+1915,Summer,France,Robert Pollard,Boxing,Bronze,31
+1915,Summer,India,Martin Sanchez,Athletics,Silver,38
+1915,Summer,Italy,Veronica Nicholson,Weightlifting,Silver,37
+1915,Summer,China,Nicholas Smith,Basketball,,33
+1915,Summer,Brazil,Austin King,Rowing,Silver,19
+1915,Summer,Brazil,Ronald Williams,Weightlifting,Bronze,20
+1915,Summer,Canada,Jason Crosby,Rowing,Bronze,39
+1915,Summer,Italy,Christopher Solomon,Athletics,Gold,32
+1915,Summer,France,Tasha Jones,Swimming,Bronze,31
+1915,Summer,France,Crystal Cisneros,Cycling,,39
+1915,Summer,China,Kyle Jackson,Basketball,Silver,33
+1915,Summer,India,William Rivera,Athletics,Silver,21
+1915,Summer,Australia,Johnny Mcdaniel,Swimming,Silver,24
+1915,Summer,China,Carl Webb,Tennis,Gold,37
+1915,Summer,China,Chad Gomez,Athletics,Bronze,37
+1915,Summer,India,Robert Acosta,Soccer,Gold,37
+1915,Summer,Russia,Teresa Clarke,Basketball,Bronze,25
+1915,Summer,Russia,Luis Caldwell,Gymnastics,Gold,18
+1915,Summer,UK,Tonya Campos,Soccer,Silver,35
+1915,Summer,USA,Mr. Steven Ross Jr.,Tennis,Gold,30
+1915,Summer,Brazil,Tyler White,Gymnastics,,39
+1915,Summer,Brazil,Annette Rosario,Rowing,Bronze,19
+1915,Summer,China,Katherine Sanchez,Swimming,Gold,38
+1915,Summer,Japan,Tyler Gilmore,Soccer,,20
+1915,Summer,USA,Michael Ferguson Jr.,Basketball,Bronze,23
+1915,Summer,South Africa,Brandon Johnson,Rowing,,20
+1915,Summer,India,Jennifer Juarez,Cycling,Gold,40
+1915,Summer,UK,Joseph Harding,Basketball,Gold,21
+1915,Summer,France,Andrea Griffith,Basketball,,27
+1915,Summer,USA,Michael Maldonado,Athletics,Gold,30
+1915,Summer,South Africa,Allen Smith,Rowing,Silver,36
+1915,Summer,China,Shirley Shannon,Athletics,,30
+1915,Summer,South Africa,David Salas,Rowing,Silver,35
+1915,Summer,Italy,Randall Parrish,Basketball,Gold,37
+1915,Summer,Brazil,Stacy Turner,Cycling,,23
+1915,Summer,Germany,Lynn Gonzalez,Rowing,Bronze,18
+1915,Summer,Italy,William Wallace,Soccer,Silver,38
+1915,Summer,Russia,Susan Hinton,Tennis,Silver,39
+1915,Summer,Japan,Douglas Weaver,Basketball,,33
+1915,Summer,Brazil,Mr. Robert Brown,Tennis,,30
+1915,Summer,Italy,John Barrett,Weightlifting,Bronze,32
+1915,Summer,India,Christopher Collins,Basketball,Silver,24
+1915,Summer,South Africa,Ethan Delgado,Soccer,Silver,39
+1915,Summer,USA,Aaron Taylor,Athletics,Bronze,24
+1915,Summer,Russia,Kristen Gibson DDS,Weightlifting,Gold,35
+1915,Summer,Russia,Thomas Burgess,Basketball,Gold,20
+1915,Summer,Canada,Ashley Lopez,Cycling,Gold,37
+1915,Summer,Brazil,Cameron Howell,Rowing,Bronze,39
+1915,Summer,Canada,Joshua Gilbert,Boxing,Bronze,23
+1915,Summer,Russia,Autumn Gallegos,Rowing,Silver,35
+1915,Summer,Brazil,David Harris,Basketball,,24
+1915,Summer,Italy,Christopher Morgan,Boxing,Gold,19
+1915,Summer,Brazil,Nancy Johnson,Boxing,Silver,39
+1915,Summer,China,Brianna Rice,Boxing,Gold,39
+1915,Summer,South Korea,Albert Davis,Boxing,Silver,36
+1915,Summer,UK,Heather Clark,Weightlifting,Silver,39
+1915,Summer,UK,Deanna Gonzales,Athletics,Gold,20
+1915,Summer,South Africa,Nathan Alvarez,Soccer,Gold,31
+1915,Summer,USA,Lisa Guerra,Rowing,,37
+1915,Summer,USA,Stephen Thomas,Weightlifting,Gold,32
+1915,Summer,USA,Timothy Bailey,Gymnastics,,39
+1915,Summer,USA,Amy Peterson,Soccer,Silver,29
+1915,Summer,Australia,Travis Scott,Tennis,,35
+1915,Summer,South Korea,Ashley Meyer,Rowing,Gold,33
+1915,Summer,Australia,Jennifer Estrada,Weightlifting,Bronze,32
+1915,Summer,India,Linda Miller,Athletics,Bronze,38
+1915,Summer,Japan,Nicholas Bryant,Boxing,Silver,19
+1915,Summer,India,Mark Mccormick,Athletics,Silver,39
+1915,Summer,Germany,David Harvey,Soccer,,31
+1915,Summer,UK,Brandon Price,Athletics,Bronze,32
+1915,Summer,Italy,Brandi Cabrera,Athletics,,21
+1915,Summer,Russia,Ryan Foster Jr.,Cycling,Bronze,34
+1915,Summer,Australia,Leah Palmer,Athletics,Gold,39
+1915,Summer,USA,Dennis Walsh,Swimming,Gold,30
+1915,Summer,South Korea,Patricia Mccormick,Tennis,Silver,20
+1915,Summer,Japan,Hannah Walton,Athletics,Bronze,32
+1915,Summer,Brazil,Lisa Dawson,Basketball,Gold,31
+1915,Summer,Australia,Kathleen Sullivan,Athletics,Gold,18
+1915,Summer,China,Robert Turner,Rowing,Gold,31
+1915,Summer,Germany,Jennifer Baird,Basketball,Bronze,31
+1915,Summer,Australia,Angela Shaw,Soccer,Bronze,30
+1915,Summer,Russia,Victor Price,Soccer,Silver,33
+1915,Summer,China,Taylor Bridges,Gymnastics,Bronze,19
+1915,Summer,India,Linda Cohen,Gymnastics,Silver,36
+1915,Summer,France,Joseph Wright,Rowing,Silver,34
+1915,Summer,Japan,Michael Franklin,Soccer,Gold,27
+1915,Summer,South Africa,George Martinez,Tennis,Gold,29
+1915,Summer,China,Richard Weeks,Boxing,Bronze,29
+1915,Summer,Germany,John Lewis,Rowing,Bronze,36
+1915,Summer,Germany,Pamela White,Rowing,Silver,26
+1915,Summer,Japan,John Fernandez,Gymnastics,Bronze,38
+1915,Summer,Italy,Monica Turner,Swimming,Silver,29
+1915,Summer,South Africa,Michael Anderson,Weightlifting,Gold,29
+1915,Summer,China,Tiffany Wilson,Gymnastics,Silver,34
+1915,Summer,UK,Karen Robles,Boxing,,29
+1915,Summer,Germany,Molly Guerrero,Gymnastics,Silver,34
+1915,Summer,Australia,Amanda Kelly,Gymnastics,Bronze,25
+1915,Summer,Canada,Matthew Martin,Soccer,Silver,35
+1915,Summer,Australia,Christy Holder,Athletics,Silver,33
+1915,Summer,Brazil,Elizabeth Cooper,Swimming,Gold,29
+1915,Summer,France,Robert Dean,Soccer,Gold,35
+1915,Summer,Russia,Rebecca Farrell,Gymnastics,,18
+1915,Summer,France,Donald Sawyer,Swimming,Gold,25
+1915,Summer,France,Pamela Bell,Basketball,Silver,21
+1915,Summer,Brazil,Charles Robinson,Soccer,,29
+1915,Summer,South Africa,Debra Acosta,Tennis,,35
+1915,Summer,Brazil,Daniel Jones,Basketball,Bronze,31
+1915,Summer,Germany,Nicole Brown,Weightlifting,Silver,18
+1915,Summer,South Africa,Thomas Harris,Swimming,Gold,37
+1915,Summer,Italy,Pam Pierce,Athletics,Gold,28
+1915,Summer,UK,Aaron Allen,Basketball,Bronze,30
+1915,Summer,South Africa,Randy Stafford,Cycling,Gold,19
+1915,Summer,France,Sandra Murphy,Gymnastics,Bronze,35
+1915,Summer,Germany,Jennifer Little,Athletics,,19
+1915,Summer,Russia,Cynthia Santos,Basketball,Silver,34
+1915,Summer,Japan,Dr. April Lyons,Gymnastics,Gold,29
+1915,Summer,UK,Kenneth Alvarez,Soccer,,30
+1915,Summer,Russia,Rachel Thomas,Cycling,Bronze,27
+1915,Summer,China,Rodney Rose,Boxing,Silver,30
+1915,Summer,Canada,Bradley May,Athletics,,23
+1915,Summer,Japan,Cynthia Moore,Weightlifting,Bronze,38
+1915,Summer,UK,Willie Richmond,Cycling,Bronze,36
+1915,Summer,Russia,Brenda Miller DVM,Gymnastics,Bronze,18
+1915,Summer,Canada,Diana Colon,Rowing,,32
+1915,Summer,Japan,Joshua Torres,Rowing,Gold,32
+1915,Summer,Italy,Eric Frank,Basketball,,37
+1915,Summer,China,Kimberly Watson,Weightlifting,Gold,18
+1915,Summer,South Africa,Traci Munoz,Weightlifting,Gold,39
+1915,Summer,Canada,Marc Smith,Athletics,Bronze,27
+1915,Summer,Germany,Karen Moore,Tennis,,25
+1915,Summer,Italy,Scott Blair,Rowing,Bronze,36
+1915,Summer,Russia,Lindsey Chambers,Cycling,Bronze,20
+1915,Summer,Germany,Susan Holmes,Athletics,Gold,37
+1915,Summer,UK,Adam Pratt,Boxing,Silver,38
+1915,Summer,Russia,Richard Smith,Soccer,Gold,18
+1915,Summer,South Korea,Melissa Martinez,Basketball,Bronze,18
+1915,Summer,Russia,William Church,Soccer,,37
+1915,Summer,Russia,Kevin Herrera,Basketball,Gold,34
+1915,Summer,UK,Philip Russell,Soccer,Silver,20
+1915,Summer,Russia,Mrs. Amy Davenport,Soccer,,21
+1915,Summer,Australia,Mrs. Ashley Barker,Weightlifting,Gold,38
+1915,Summer,China,Paula Blair,Boxing,Gold,34
+1915,Summer,Italy,Heather Williams,Basketball,,30
+1915,Summer,Russia,Robert Mendez,Gymnastics,Bronze,29
+1915,Summer,Italy,Kevin Donaldson,Weightlifting,Bronze,37
+1915,Summer,USA,Natalie Lopez,Basketball,Gold,22
+1915,Summer,Germany,Jasmine Pham,Tennis,Silver,24
+1915,Summer,South Africa,Diane Murphy,Cycling,Bronze,39
+1915,Summer,Germany,Jasmine Jones,Boxing,Gold,40
+1915,Summer,Canada,Anna Watts,Tennis,Bronze,20
+1915,Summer,Russia,Daniel Krueger,Soccer,Silver,30
+1915,Summer,India,John Hahn,Cycling,Bronze,25
+1915,Summer,Japan,Christine Allen,Gymnastics,Gold,29
+1915,Summer,China,David Anderson,Swimming,Bronze,18
+1915,Summer,South Korea,Theresa Johnson,Weightlifting,,20
+1915,Summer,Russia,Eric Roberts,Soccer,,28
+1915,Summer,China,Michael Martin,Athletics,Gold,22
+1915,Summer,Brazil,Kenneth Johnson,Gymnastics,,31
+1915,Summer,Brazil,Amanda Williams,Swimming,Silver,29
+1915,Summer,Canada,Shannon Contreras,Gymnastics,Gold,32
+1915,Summer,South Korea,Rebecca Sutton,Tennis,,32
+1915,Summer,Japan,Tristan Marshall,Athletics,Silver,38
+1915,Summer,Canada,Peter Davis,Gymnastics,Gold,33
+1915,Summer,China,Donna Silva,Swimming,Gold,30
+1915,Summer,Brazil,Tabitha Gibson,Tennis,Gold,33
+1915,Summer,France,Alicia Conrad,Weightlifting,Bronze,26
+1915,Summer,Italy,Linda Khan,Rowing,Gold,32
+1915,Summer,USA,Calvin Lee,Weightlifting,Bronze,28
+1915,Summer,Germany,Tracy Gonzalez,Gymnastics,Silver,33
+1915,Summer,France,William Lee,Cycling,Gold,18
+1915,Summer,China,Matthew Graham MD,Cycling,,35
+1915,Summer,Japan,Justin Bell,Weightlifting,Bronze,22
+1915,Summer,France,Ronald Pollard,Swimming,Gold,34
+1915,Summer,South Africa,Heather Lane,Cycling,Gold,36
+1915,Summer,Italy,Robert Conley,Basketball,Silver,19
+1915,Summer,China,Stephanie Hughes,Boxing,,37
+1915,Summer,India,Tara Jones,Boxing,Bronze,32
+1915,Summer,Japan,Tom Douglas,Basketball,Silver,32
+1915,Summer,Russia,Ashley Cobb,Soccer,Gold,29
+1915,Summer,China,Lisa Castillo,Cycling,Silver,18
+1915,Summer,Brazil,Alejandro Ruiz,Swimming,Bronze,40
+1915,Summer,South Africa,David Mendoza,Soccer,Gold,38
+1915,Summer,Canada,Emily Turner,Basketball,Gold,19
+1915,Summer,Germany,Brittany Bradshaw,Boxing,Gold,23
+1915,Summer,South Korea,Henry Woods,Weightlifting,Bronze,29
+1915,Summer,India,Robert Moore,Cycling,Silver,20
+1915,Summer,India,Beth Roy,Swimming,Silver,20
+1915,Summer,Italy,Joshua Palmer,Weightlifting,,21
+1915,Summer,Germany,Logan Mcdaniel,Rowing,Gold,35
+1915,Summer,India,Brandon Thomas,Gymnastics,,30
+1915,Summer,South Korea,Lisa French,Swimming,Silver,27
+1915,Summer,Australia,Kelly Morton,Cycling,Bronze,24
+1915,Summer,Australia,Allen Williams,Basketball,Gold,39
+1915,Summer,Brazil,Denise Stafford,Cycling,Silver,18
+1915,Summer,Canada,Jillian Williams,Rowing,Gold,19
+1915,Summer,India,Lindsey Parrish,Soccer,Gold,39
+1915,Summer,Australia,Mrs. Candace Shelton,Athletics,Bronze,28
+1915,Summer,USA,Timothy Rivera,Swimming,Gold,30
+1915,Summer,South Korea,Kristina Lee,Boxing,Gold,40
+1915,Summer,Canada,Joseph Miller,Boxing,Silver,25
+1915,Summer,South Africa,Mandy Erickson,Athletics,Gold,26
+1915,Summer,South Africa,Michael Colon,Gymnastics,,28
+1915,Summer,South Korea,Tammy Rivas,Cycling,,27
+1915,Summer,India,Thomas Alvarez,Boxing,Gold,21
+1915,Summer,Japan,Megan Marquez,Basketball,Gold,26
+1915,Summer,China,Benjamin Harvey,Weightlifting,Silver,34
+1915,Summer,France,Diana White,Gymnastics,,38
+1915,Summer,South Korea,Penny Rodgers,Rowing,Silver,18
+1915,Summer,UK,David Daniel,Soccer,Gold,37
+1915,Summer,India,Jessica Garcia,Weightlifting,Bronze,40
+1915,Summer,Canada,Mallory Rivas,Weightlifting,Bronze,28
+1915,Summer,France,Kelly Young,Tennis,Gold,22
+1915,Summer,Japan,Sandra Alvarez,Rowing,Gold,34
+1915,Summer,South Korea,Justin Cox,Swimming,Silver,38
+1915,Summer,South Korea,Daniel Holmes,Swimming,,20
+1915,Summer,USA,Terri Bell,Athletics,,21
+1915,Summer,Germany,Carlos Obrien,Athletics,Silver,25
+1915,Summer,Canada,Bruce Harrell,Swimming,Bronze,26
+1915,Summer,Canada,Tanya Gibbs,Boxing,Silver,37
+1915,Summer,Canada,Marissa Hernandez,Weightlifting,,27
+1915,Summer,Japan,Kristen Mendez,Rowing,Silver,21
+1915,Summer,South Africa,Patrick Russell,Basketball,Gold,24
+1915,Summer,Australia,Lisa Lewis,Weightlifting,Gold,18
+1915,Summer,France,Stacey Clarke,Athletics,Gold,28
+1915,Summer,Italy,Jean Russell,Athletics,Silver,27
+1915,Summer,India,Brandy Porter,Rowing,Gold,27
+1915,Summer,Italy,Kathleen Burton,Tennis,Silver,34
+1915,Summer,Germany,Carl Russell,Rowing,Silver,26
+1915,Summer,Canada,Dawn Potter,Soccer,Silver,26
+1915,Summer,Brazil,Jonathan Hall,Cycling,Bronze,30
+1915,Summer,India,Justin Knight,Cycling,,24
+1915,Summer,China,Seth Allen,Cycling,Gold,29
+1915,Summer,UK,Tony Bowman,Basketball,,23
+1915,Summer,France,Brian Torres,Rowing,Silver,37
+1915,Summer,UK,Cody Hancock,Basketball,Silver,38
+1915,Summer,Italy,George Howell,Swimming,Silver,28
+1915,Summer,Brazil,Nathan Johnson,Soccer,Gold,39
+1915,Summer,China,Christopher Gray,Rowing,Silver,38
+1915,Summer,China,Andrew Crawford,Boxing,,19
+1915,Summer,South Africa,Amy Smith,Gymnastics,,33
+1915,Summer,Italy,Anna Jones,Athletics,,23
+1915,Summer,France,Kelly Gray,Tennis,,27
+1915,Summer,Brazil,Nancy Chandler,Weightlifting,,20
+1915,Summer,China,Kimberly Mckee,Weightlifting,,20
+1915,Summer,South Africa,Jessica Graves,Gymnastics,,19
+1915,Summer,Russia,Sharon May,Weightlifting,Silver,23
+1915,Summer,Brazil,Megan Sullivan,Athletics,Bronze,23
+1915,Summer,France,Timothy Zuniga,Soccer,Silver,28
+1915,Summer,UK,Joshua Casey,Weightlifting,Bronze,25
+1915,Summer,India,Laura Pacheco,Athletics,Bronze,32
+1915,Summer,Italy,Toni Anderson MD,Athletics,Bronze,30
+1915,Summer,China,Leslie Sutton,Boxing,,30
+1915,Summer,South Africa,Mallory Smith,Basketball,Bronze,25
+1915,Summer,Brazil,Stefanie Wright,Tennis,,26
+1915,Summer,Brazil,Thomas Odonnell,Weightlifting,Silver,23
+1915,Summer,South Africa,James Martinez,Rowing,Gold,28
+1915,Summer,Brazil,Tracy Castillo,Gymnastics,Gold,25
+1915,Summer,USA,Brittany Rodgers,Weightlifting,Bronze,32
+1915,Summer,Canada,Angela Williams,Gymnastics,Silver,37
+1915,Summer,South Korea,Mr. Richard Hayes DVM,Tennis,Gold,26
+1915,Summer,Russia,Daniel Rice,Weightlifting,Silver,34
+1915,Summer,France,Brett Wood,Cycling,Gold,27
+1915,Summer,France,Anna Terry,Boxing,Gold,21
+1915,Summer,India,Jennifer Bailey,Tennis,,36
+1915,Summer,USA,Vanessa Kirby,Soccer,Bronze,22
+1915,Summer,Germany,Trevor Franklin,Gymnastics,Bronze,28
+1915,Summer,Italy,David Walker,Boxing,Bronze,35
+1915,Summer,Brazil,Luis Rivera,Gymnastics,Gold,36
+1915,Summer,China,Brian Taylor,Boxing,Bronze,22
+1915,Summer,USA,Ryan Faulkner,Soccer,Gold,36
+1915,Summer,Italy,Mr. Jeffery Mann Jr.,Weightlifting,,28
+1915,Summer,Canada,Chad Choi,Soccer,Bronze,35
+1915,Summer,India,Robert Miranda,Gymnastics,,35
+1915,Summer,Australia,Stacy Webster,Boxing,Silver,39
+1915,Summer,South Korea,Travis Parks,Boxing,Silver,40
+1915,Summer,Australia,Alexandra Frost,Soccer,Gold,22
+1915,Summer,Brazil,Scott Johnson,Soccer,,23
+1915,Summer,UK,Susan Cooley,Athletics,Gold,22
+1915,Summer,USA,Jordan Saunders,Gymnastics,,27
+1915,Summer,India,Timothy Lewis,Basketball,Bronze,31
+1915,Summer,South Korea,Mary Dyer,Basketball,Gold,34
+1915,Summer,Germany,Scott Oneal,Swimming,Bronze,30
+1915,Summer,Japan,Benjamin Cook,Soccer,Gold,22
+1915,Summer,Italy,Mark Salas,Basketball,Silver,20
+1915,Summer,Italy,Heather Martinez,Athletics,Silver,27
+1915,Summer,India,Joseph Nelson,Cycling,Bronze,19
+1915,Summer,UK,Lori Chapman,Basketball,Silver,24
+1915,Summer,UK,John Taylor,Athletics,Bronze,33
+1915,Summer,France,Mrs. Michele Knight MD,Soccer,,25
+1915,Summer,France,Barbara Newman,Weightlifting,Gold,25
+1915,Summer,USA,Blake Foster,Cycling,Silver,40
+1915,Summer,China,Willie Nicholson,Weightlifting,Bronze,19
+1915,Summer,Italy,Raymond Miller,Gymnastics,Bronze,28
+1915,Summer,USA,Teresa Sutton,Tennis,Gold,29
+1915,Summer,Italy,Allison Jordan,Gymnastics,Silver,26
+1915,Summer,UK,Vernon Mitchell,Basketball,Silver,37
+1915,Summer,Russia,Kimberly Wright,Rowing,Silver,30
+1915,Summer,India,Thomas Brown,Rowing,Bronze,22
+1915,Summer,Brazil,Heather Burns,Weightlifting,,22
+1915,Summer,South Korea,Gregory Murphy,Rowing,,39
+1915,Summer,India,Mary Crosby,Swimming,,21
+1915,Summer,Italy,Amanda Green,Soccer,Silver,36
+1915,Summer,India,Michael Perry,Cycling,Bronze,18
+1915,Summer,UK,Dale Mason,Gymnastics,Gold,32
+1915,Summer,Australia,Matthew Carter,Tennis,Gold,39
+1915,Summer,Japan,Robyn Dean,Boxing,Silver,25
+1915,Summer,France,Katherine Wong,Gymnastics,Bronze,25
+1915,Summer,Italy,Deborah Flores MD,Boxing,Bronze,35
+1915,Summer,USA,Michael Key,Gymnastics,Silver,21
+1915,Summer,Italy,Lori Gregory,Swimming,Gold,21
+1915,Summer,Japan,Julian Hernandez,Swimming,Bronze,32
+1915,Summer,South Korea,Claudia Garcia,Cycling,,25
+1915,Summer,UK,Jaime Alexander,Rowing,,33
+1915,Summer,Italy,Lindsey Taylor,Cycling,Gold,19
+1915,Summer,Canada,Lauren Davis,Weightlifting,,28
+1915,Summer,Germany,Jerry Sutton,Soccer,,22
+1915,Summer,UK,Michael Savage,Weightlifting,Bronze,18
+1915,Summer,USA,Kyle Ellison,Swimming,Bronze,30
+1915,Summer,Germany,Steven Gray MD,Gymnastics,Bronze,25
+1915,Summer,Canada,Chad Smith,Soccer,Gold,22
+1915,Summer,Germany,Stephanie Brown,Boxing,Bronze,37
+1915,Summer,China,Elizabeth Miller,Gymnastics,Gold,28
+1915,Summer,UK,Barbara Lucero,Gymnastics,Gold,36
+1915,Summer,Italy,Nicholas Middleton,Athletics,Bronze,24
+1915,Summer,Brazil,Stephanie Marshall,Gymnastics,Bronze,38
+1915,Summer,Germany,Spencer Cook,Weightlifting,Silver,25
+1915,Summer,India,Charles Shaw,Rowing,Silver,29
+1915,Summer,Australia,Allen Mcdaniel,Gymnastics,Gold,30
+1915,Summer,USA,Rebekah Liu,Athletics,Silver,24
+1915,Summer,Australia,Danielle Patton,Tennis,Silver,26
+1915,Summer,Brazil,Chloe Smith,Weightlifting,,24
+1915,Summer,Italy,Patrick Payne,Swimming,Silver,37
+1915,Summer,India,Ana Wells,Weightlifting,,32
+1915,Summer,South Africa,Shelley Williamson,Gymnastics,Bronze,29
+1915,Summer,USA,Todd Johnson,Boxing,Bronze,20
+1915,Summer,India,Laura Tate,Boxing,Silver,23
+1915,Summer,Brazil,Jason Cook,Basketball,Gold,22
+1915,Summer,South Africa,Darius Moyer,Tennis,,25
+1915,Summer,China,Jason Lawrence,Rowing,Gold,39
+1915,Summer,France,Brittany Ray,Athletics,Silver,19
+1915,Summer,USA,Carrie Paul,Soccer,Bronze,33
+1915,Summer,UK,Robert Stewart,Athletics,Gold,32
+1915,Summer,South Africa,Sarah Mitchell,Soccer,,26
+1915,Summer,Italy,Katherine Jones,Cycling,Gold,35
+1915,Summer,Russia,James Buck,Basketball,,20
+1915,Summer,India,Erik Baker,Tennis,Gold,24
+1915,Summer,China,Christopher Zimmerman,Tennis,,22
+1915,Summer,France,Wendy Lucas,Rowing,,31
+1915,Summer,Canada,Sharon Johnson,Swimming,Bronze,32
+1915,Summer,Canada,Danielle Hunter,Cycling,Gold,23
+1915,Summer,Japan,Jennifer Lewis,Rowing,Silver,27
+1915,Summer,South Africa,Charles Keller,Rowing,Bronze,34
+1915,Summer,Australia,Kathryn Lewis,Rowing,,34
+1915,Summer,Australia,Terri Hickman,Athletics,,35
+1915,Summer,Russia,Peter Smith,Weightlifting,Bronze,23
+1915,Summer,Japan,Christopher Nelson,Boxing,Silver,28
+1915,Summer,Canada,Matthew Wilson,Weightlifting,Silver,25
+1915,Summer,Russia,Dr. Kyle James,Cycling,Gold,21
+1915,Summer,USA,Jennifer Christensen,Rowing,Bronze,35
+1915,Summer,Italy,Colton Costa,Athletics,,28
+1915,Summer,South Korea,Corey Doyle,Rowing,Silver,35
+1915,Summer,UK,Brenda Henry,Boxing,,31
+1915,Summer,Japan,Michael Aguilar,Weightlifting,,19
+1915,Summer,Brazil,Faith Houston,Basketball,,37
+1915,Summer,South Africa,Patricia King,Cycling,Gold,36
+1915,Summer,France,Julie Hernandez,Weightlifting,Gold,28
+1915,Summer,South Korea,Gregory Green,Soccer,Bronze,28
+1915,Summer,South Africa,Veronica Williams,Weightlifting,Gold,37
+1915,Summer,China,Justin Underwood,Soccer,Silver,29
+1915,Summer,South Korea,Brianna Wood,Soccer,Gold,24
+1915,Summer,Canada,Wayne Lamb,Soccer,,34
+1915,Summer,USA,Susan Barnes,Basketball,Silver,29
+1915,Summer,UK,Angela Kelley,Rowing,Bronze,21
+1915,Summer,Japan,Michelle Green,Boxing,Bronze,32
+1915,Summer,China,Jason Rogers,Gymnastics,,19
+1915,Summer,France,Tony Reilly,Gymnastics,Silver,21
+1915,Summer,USA,Craig Fisher,Athletics,Silver,25
+1915,Summer,Germany,Richard Fitzgerald,Soccer,,39
+1915,Summer,Brazil,Bradley Dawson,Basketball,Silver,28
+1915,Summer,Germany,Jennifer Vasquez,Basketball,Silver,38
+1915,Summer,Australia,Benjamin Sampson,Boxing,,31
+1915,Summer,South Africa,Andre Shannon,Cycling,Bronze,40
+1915,Summer,France,Rebecca Barnes,Athletics,Gold,34
+1915,Summer,France,Maria Hoffman,Tennis,,25
+1915,Summer,Japan,Michelle Moore,Weightlifting,,28
+1915,Summer,South Korea,Daniel Sharp,Rowing,,20
+1915,Summer,Russia,Scott Villegas,Swimming,Bronze,30
+1915,Summer,Japan,Ashley Brown,Boxing,Gold,38
+1915,Summer,South Korea,Amanda Oconnell,Weightlifting,,22
+1915,Summer,UK,James Fernandez,Boxing,,18
+1915,Summer,South Africa,Mrs. Jessica Rivera,Rowing,,32
+1915,Summer,Australia,Michael Schwartz,Boxing,Bronze,23
+1915,Summer,Brazil,Lisa King,Basketball,Gold,30
+1915,Summer,France,Ronald Nguyen Jr.,Athletics,Silver,26
+1915,Summer,China,Valerie Woodard,Tennis,,24
+1915,Summer,USA,Martin Ponce,Soccer,Silver,29
+1915,Summer,Australia,Shelley Hall,Cycling,,18
+1915,Summer,Japan,Mr. Randy Williams,Rowing,,39
+1915,Summer,South Korea,Douglas Huerta,Basketball,Gold,20
+1915,Summer,South Korea,Christopher Orozco,Swimming,Silver,25
+1915,Summer,Brazil,Gabriel Arellano,Weightlifting,Silver,22
+1915,Summer,Australia,Elizabeth Ross,Cycling,,18
+1915,Summer,Italy,Elizabeth Kelley,Soccer,Gold,18
+1915,Summer,Germany,Richard Wilson DDS,Swimming,Bronze,40
+1915,Summer,Canada,Ian Campbell,Cycling,,20
+1915,Summer,India,Peter Smith,Basketball,,23
+1915,Summer,Canada,Richard Robinson,Weightlifting,Bronze,35
+1915,Summer,India,Crystal Mcdaniel,Cycling,Bronze,25
+1915,Summer,Germany,Brian Berg,Gymnastics,Silver,19
+1915,Summer,Japan,Emily Walter,Boxing,Silver,27
+1915,Summer,Canada,Megan Ellison,Athletics,Bronze,35
+1915,Summer,USA,Travis Gardner,Tennis,Silver,20
+1915,Summer,Brazil,David Schroeder,Gymnastics,Silver,32
+1915,Summer,Australia,Susan Levine,Soccer,Silver,34
+1915,Summer,UK,Cody Miller,Cycling,Silver,29
+1915,Summer,Germany,Robert Munoz,Cycling,Silver,19
+1915,Summer,Canada,Nancy Williams,Rowing,Silver,35
+1915,Summer,Brazil,Mark Cole,Boxing,,40
+1915,Summer,South Korea,Beverly Fuentes,Soccer,,24
+1915,Summer,Australia,Kristy Wright,Gymnastics,Gold,39
+1915,Summer,Japan,Robert Martinez,Cycling,,24
+1915,Summer,South Korea,Mrs. Mary Gordon MD,Soccer,Silver,27
+1915,Summer,South Africa,Nicole Brown,Tennis,Gold,29
+1915,Summer,Italy,Jennifer Fleming,Cycling,,28
+1915,Summer,Germany,Andrea Nelson,Basketball,Bronze,39
+1915,Summer,Canada,Andrew Morrison MD,Gymnastics,Bronze,21
+1915,Summer,France,Kristina Carson,Gymnastics,,23
+1915,Summer,Brazil,Carol Allen,Rowing,Silver,40
+1915,Summer,South Africa,Alexander Horton MD,Soccer,Bronze,32
+1915,Summer,South Africa,Christine Stewart,Swimming,,30
+1915,Summer,Italy,Keith Wheeler,Soccer,Gold,32
+1915,Summer,Germany,Anna Wright,Cycling,Gold,21
+1915,Summer,UK,Robert Davis,Gymnastics,,27
+1915,Summer,Brazil,Kevin Wood,Athletics,Silver,34
+1915,Summer,USA,Brenda Moore,Weightlifting,Bronze,24
+1915,Summer,China,April Rodriguez,Athletics,,20
+1915,Summer,China,John Smith,Tennis,,30
+1915,Summer,China,Brandon Hayes,Swimming,Gold,20
+1915,Summer,South Africa,Dennis Martinez,Gymnastics,,36
+1915,Summer,Canada,Dustin Lucas,Cycling,Bronze,26
+1915,Summer,India,Michelle Jacobs,Tennis,Silver,22
+1915,Summer,China,Todd Hill,Boxing,Gold,24
+1915,Summer,Germany,Traci Kelly,Rowing,Bronze,29
+1915,Summer,Brazil,Heather Gardner,Soccer,Gold,32
+1915,Summer,Australia,Kelly Ellis,Swimming,Bronze,26
+1915,Summer,USA,Carol Osborn,Cycling,,24
+1915,Summer,India,Craig Young,Rowing,Silver,39
+1915,Summer,UK,Brenda Mcpherson,Soccer,Gold,20
+1915,Summer,Japan,Michael Wilson,Tennis,,25
+1915,Summer,South Korea,Alicia Howe,Gymnastics,Gold,31
+1915,Summer,Germany,Valerie Wilson,Cycling,Bronze,34
+1915,Summer,China,Michelle Klein,Weightlifting,Silver,28
+1915,Summer,Japan,Philip Bates,Cycling,Bronze,27
+1915,Summer,Australia,Lisa Rasmussen,Cycling,Gold,37
+1915,Summer,Germany,Ashley Robinson,Soccer,Silver,24
+1915,Summer,Russia,Kristin Lewis,Rowing,Silver,30
+1915,Summer,South Korea,Rebecca Sutton,Rowing,Gold,28
+1915,Summer,Russia,Michael Davis,Gymnastics,Gold,28
+1915,Summer,UK,Hannah Pearson,Boxing,Silver,40
+1915,Summer,South Africa,Manuel Potter,Basketball,Gold,18
+1915,Summer,France,John Burke,Cycling,Gold,33
+1915,Summer,Brazil,Michael Wagner,Weightlifting,Bronze,22
+1915,Summer,Canada,Sandra Diaz,Rowing,,18
+1915,Summer,China,Dr. Cynthia Curry,Tennis,,23
+1915,Summer,China,Annette Palmer,Soccer,Silver,37
+1915,Summer,USA,Derrick Johnson,Weightlifting,,31
+1915,Summer,France,Ruth Shaw,Soccer,,25
+1915,Summer,South Africa,Taylor Peters,Weightlifting,Silver,27
+1915,Summer,Italy,Charles Harmon,Swimming,,23
+1915,Summer,Canada,Jessica Hull,Tennis,Gold,39
+1915,Summer,Brazil,Wendy Steele,Swimming,Bronze,27
+1915,Summer,France,William Jacobs,Tennis,,39
+1915,Summer,India,Renee Warren,Boxing,Bronze,29
+1915,Summer,Italy,John Pham,Tennis,Silver,34
+1915,Summer,China,Alyssa Sims,Basketball,Bronze,19
+1915,Summer,South Africa,Linda Dunn,Weightlifting,,28
+1915,Summer,Australia,Lori Simmons,Soccer,Bronze,40
+1915,Summer,Germany,Jeremy White,Boxing,Gold,36
+1915,Summer,Australia,Christine Myers,Swimming,Silver,22
+1915,Summer,China,John Schultz,Weightlifting,Gold,35
+1915,Summer,China,Kevin Ross,Rowing,Gold,40
+1915,Summer,South Africa,Sean Howard,Cycling,Silver,35
+1915,Summer,China,Angela Aguilar,Weightlifting,Bronze,18
+1915,Summer,India,Joshua Gray,Weightlifting,Bronze,36
+1915,Summer,USA,Anthony Conley,Swimming,Gold,35
+1915,Summer,China,Heather Rogers,Gymnastics,Bronze,29
+1915,Summer,South Korea,Katherine Brown,Athletics,,32
+1915,Summer,India,Kimberly Nielsen,Swimming,Silver,28
+1915,Summer,Japan,Robert Brown,Cycling,Silver,37
+1915,Summer,Australia,Stephanie Peterson,Athletics,Silver,20
+1915,Summer,Japan,Jasmine Cantu,Basketball,,38
+1915,Summer,Japan,Jonathan Ramirez,Boxing,Bronze,19
+1915,Summer,Japan,Christine Washington,Basketball,Bronze,31
+1915,Summer,South Korea,Laura Figueroa,Swimming,Bronze,20
+1915,Summer,Brazil,Deborah Lopez,Athletics,Bronze,18
+1915,Summer,South Korea,Sarah Cervantes,Weightlifting,,19
+1915,Summer,USA,Carolyn Stephens,Weightlifting,Bronze,31
+1915,Summer,France,John Roach,Weightlifting,Silver,33
+1915,Summer,South Africa,Pamela Weaver,Rowing,,37
+1915,Summer,China,Sarah Rush MD,Soccer,Silver,18
+1915,Summer,South Africa,Larry Hogan,Tennis,,20
+1915,Summer,Australia,Bradley Stewart,Swimming,,32
+1915,Summer,Germany,Catherine Moore,Rowing,Silver,29
+1915,Summer,USA,Matthew Marshall,Soccer,Silver,25
+1915,Summer,Germany,Kayla Peterson,Weightlifting,,23
+1915,Summer,India,Mr. Christopher Johnson PhD,Gymnastics,,19
+1915,Summer,UK,Bradley Johnson,Swimming,Bronze,33
+1915,Summer,Russia,Christopher Smith,Soccer,Gold,27
+1915,Summer,South Korea,Wendy Powell,Weightlifting,Bronze,23
+1915,Summer,South Korea,Courtney Roberts,Rowing,Silver,25
+1915,Summer,USA,Robert Gonzales,Cycling,Gold,18
+1915,Summer,USA,Alexander Durham,Cycling,,37
+1915,Summer,Brazil,Destiny Hill,Cycling,Gold,28
+1915,Summer,Japan,David Murillo,Tennis,Silver,40
+1915,Summer,Australia,William Sharp,Soccer,Gold,32
+1915,Summer,UK,Debra Williamson,Gymnastics,,36
+1915,Summer,Australia,Kelly Welch,Athletics,Silver,18
+1915,Summer,Canada,Kathryn Campbell,Gymnastics,Silver,37
+1915,Summer,UK,Monica Morrison,Weightlifting,Gold,39
+1915,Summer,Russia,Jeremiah Miller,Weightlifting,,40
+1915,Summer,India,Stephen Rodriguez,Tennis,Silver,32
+1915,Summer,South Korea,Randall White MD,Rowing,Silver,40
+1915,Summer,Germany,Tammy Graves,Rowing,,37
+1915,Summer,India,Michelle Smith,Boxing,,24
+1915,Summer,Italy,Brian Hartman,Swimming,,24
+1915,Summer,USA,Robert Hinton,Rowing,Gold,24
+1915,Summer,Canada,Melissa Baker,Swimming,Gold,31
+1915,Summer,Russia,Scott Lindsey,Athletics,Gold,40
+1915,Summer,India,Desiree Harris,Cycling,Gold,30
+1915,Summer,India,Lynn Anderson,Basketball,Silver,23
+1915,Summer,Italy,Abigail Jones,Gymnastics,Silver,36
+1915,Summer,Canada,Jeremy Bishop,Soccer,Gold,25
+1915,Summer,France,Diane Sampson,Swimming,Bronze,33
+1915,Summer,Australia,Samuel Schmidt,Cycling,Gold,27
+1915,Summer,Australia,Pamela Kelley,Soccer,Bronze,27
+1915,Summer,India,Austin Cunningham,Cycling,Silver,33
+1915,Summer,Australia,James Jackson,Rowing,,26
+1915,Summer,UK,Kerry Solomon,Cycling,Bronze,35
+1915,Summer,Brazil,Ashley Vargas,Gymnastics,Silver,40
+1915,Summer,South Korea,Michelle Roberts,Cycling,,26
+1915,Summer,South Africa,Carl James,Gymnastics,Bronze,26
+1915,Summer,Canada,Deanna Robbins,Tennis,Gold,40
+1915,Summer,France,Willie Wright,Cycling,,20
+1915,Summer,USA,Kelly Garza,Cycling,Bronze,40
+1915,Summer,France,Derrick Howell,Weightlifting,Bronze,28
+1915,Summer,Russia,Alexa Baldwin,Rowing,Gold,36
+1915,Summer,France,Kyle Brown,Gymnastics,Silver,29
+1915,Summer,Germany,Julia Porter,Cycling,Gold,32
+1915,Summer,South Africa,Wesley Riley,Gymnastics,,38
+1915,Summer,Australia,Allison Young,Athletics,,22
+1915,Summer,Italy,James Moore,Weightlifting,Silver,27
+1915,Summer,France,Brent Zimmerman,Athletics,Gold,22
+1915,Summer,Brazil,Angela Jackson,Rowing,,28
+1915,Summer,South Korea,Justin Lee,Basketball,Gold,28
+1915,Summer,Russia,John Kaufman,Tennis,Bronze,32
+1915,Summer,Italy,Erica Fernandez,Basketball,Silver,21
+1915,Summer,Germany,Robert Hernandez,Cycling,,32
+1915,Summer,Australia,Jacqueline Cook,Athletics,Silver,40
+1915,Summer,South Korea,David Stanley,Swimming,Silver,25
+1915,Summer,South Africa,Robert Holmes,Gymnastics,,31
+1915,Summer,France,Richard Waters,Soccer,Silver,38
+1915,Summer,France,Tyler Wilson,Gymnastics,Gold,30
+1915,Summer,USA,James Robertson,Gymnastics,Bronze,34
+1915,Summer,Canada,Debra Mccormick,Tennis,,33
+1915,Summer,Germany,Lori Garza,Cycling,Silver,37
+1915,Summer,USA,Jeff Wood,Boxing,Silver,35
+1915,Summer,Canada,Jacqueline Villegas,Gymnastics,Bronze,31
+1915,Summer,India,Yvonne Reese,Boxing,Gold,33
+1915,Summer,South Africa,Allen Henderson,Athletics,Gold,22
+1915,Summer,South Africa,Cathy Alexander,Rowing,,28
+1915,Summer,China,Roger Sanders,Cycling,,30
+1915,Summer,South Korea,Ashley Anderson,Basketball,Bronze,37
+1915,Summer,Germany,Diane Hogan,Gymnastics,Bronze,34
+1915,Summer,Germany,Richard Berry,Soccer,,40
+1915,Summer,USA,Ashley Lee,Tennis,Bronze,33
+1915,Summer,Japan,Brittany Hansen,Gymnastics,Bronze,35
+1915,Summer,China,Anthony Page,Soccer,Bronze,19
+1915,Summer,Germany,Jeremy Reed,Athletics,,19
+1915,Summer,USA,Richard Brewer,Rowing,,28
+1915,Summer,USA,Michael Lane,Cycling,Gold,37
+1915,Summer,USA,Kristie Steele,Athletics,Silver,35
+1915,Summer,UK,Kelly Smith,Rowing,Gold,34
+1915,Summer,South Korea,Sandy Lawrence,Basketball,,24
+1915,Summer,South Africa,Jessica Hoffman,Soccer,Bronze,31
+1915,Summer,China,Nathaniel Black,Gymnastics,Gold,22
+1915,Summer,Germany,Pamela Waters,Gymnastics,,40
+1915,Summer,Russia,John Hicks,Tennis,Gold,21
+1915,Summer,India,Darren Smith,Soccer,,26
+1915,Summer,China,William Wells,Rowing,Bronze,31
+1915,Summer,Canada,Jennifer Lopez,Boxing,Gold,29
+1915,Summer,Japan,Anthony Hammond,Basketball,Gold,27
+1915,Summer,France,Carla Delgado,Basketball,Gold,27
+1915,Summer,Canada,Michelle Miller,Boxing,,24
+1915,Summer,Australia,Karen Wilson,Boxing,Bronze,25
+1915,Summer,Russia,Randall Miller,Boxing,Bronze,25
+1915,Summer,Italy,Nicholas Nixon,Weightlifting,Bronze,27
+1915,Summer,South Korea,Dr. Dawn Peters,Rowing,,35
+1915,Summer,Japan,Michelle Payne,Tennis,,25
+1915,Summer,Russia,Denise Fischer,Tennis,,39
+1915,Summer,Italy,Brian Lawrence,Gymnastics,Silver,32
+1915,Summer,India,Lisa Sims,Swimming,Silver,23
+1915,Summer,India,Cynthia Levy,Rowing,Silver,28
+1915,Summer,South Korea,Monica Nelson,Basketball,Bronze,36
+1915,Summer,Germany,Steven Johnson,Soccer,Silver,25
+1915,Summer,Australia,Angela Rodriguez,Boxing,Silver,22
+1915,Summer,UK,Anna Grant,Tennis,,32
+1915,Summer,France,Terry Sutton,Swimming,Bronze,22
+1915,Summer,France,Patricia Castro,Athletics,,26
+1915,Summer,South Africa,Trevor Grant,Gymnastics,,27
+1915,Summer,South Africa,Jason Ford,Boxing,Gold,36
+1915,Summer,South Korea,Carrie Rogers,Swimming,Gold,36
+1915,Summer,USA,Victoria Ramirez,Swimming,Gold,37
+1915,Summer,Japan,Alexandra Green,Athletics,Bronze,18
+1915,Summer,South Africa,Sara Newman,Cycling,Bronze,21
+1915,Summer,Russia,Andrew Thompson,Boxing,,35
+1915,Summer,Italy,Jerry Noble,Rowing,Bronze,33
+1915,Summer,South Africa,Daniel Sparks,Swimming,,19
+1915,Summer,Russia,Paula Jones,Soccer,,24
+1915,Summer,France,David Moore,Rowing,Bronze,23
+1915,Summer,France,Matthew Shaw,Rowing,Bronze,29
+1915,Summer,China,Jason Maxwell,Gymnastics,,40
+1915,Summer,France,Miranda Bond,Athletics,Silver,39
+1915,Summer,Brazil,Joanna Pruitt,Basketball,Silver,18
+1915,Summer,Italy,Sabrina Williams,Athletics,Silver,22
+1915,Summer,South Africa,Jeremy Chapman,Basketball,Silver,28
+1915,Summer,Australia,Matthew Schwartz,Gymnastics,Silver,29
+1915,Summer,USA,Guy Palmer,Cycling,,35
+1915,Summer,Italy,Sonya Le,Gymnastics,Silver,26
+1915,Summer,Brazil,Eric Mccoy,Weightlifting,Bronze,26
+1915,Summer,Brazil,Angela Lang,Cycling,Silver,31
+1915,Summer,India,Kevin Ellis,Cycling,Silver,18
+1915,Summer,South Korea,Jennifer Dickson,Tennis,,33
+1915,Summer,South Korea,Tina Nixon,Tennis,Bronze,24
+1915,Summer,USA,Hunter Marshall,Boxing,Gold,25
+1915,Summer,Brazil,Sean Cohen,Boxing,Gold,23
+1915,Summer,Canada,Tracy Le,Gymnastics,,39
+1915,Summer,India,Daniel Estrada,Soccer,,40
+1915,Summer,Australia,Kimberly Flores,Soccer,Silver,31
+1915,Summer,Australia,Kevin Mcdonald,Swimming,,29
+1915,Summer,Canada,Travis Williams,Soccer,Gold,20
+1915,Summer,Canada,Robert Briggs,Boxing,Gold,26
+1915,Summer,USA,Russell Delacruz,Tennis,Bronze,30
+1915,Summer,Russia,Elizabeth Hardy,Soccer,Bronze,36
+1915,Summer,USA,Kristine Mendoza,Tennis,Silver,18
+1915,Summer,South Korea,Kyle Pope,Swimming,Silver,39
+1915,Summer,Russia,Matthew Ortiz,Gymnastics,,23
+1915,Summer,South Africa,Reginald Stanley,Soccer,Silver,37
+1915,Summer,France,Samantha Charles,Tennis,Silver,28
+1915,Summer,South Korea,Jocelyn Rivera,Tennis,Silver,35
+1915,Summer,Germany,Holly Johnson,Weightlifting,Bronze,38
+1915,Summer,USA,Jonathan Freeman,Weightlifting,Silver,27
+1915,Summer,Canada,William Burton,Gymnastics,,28
+1915,Summer,South Africa,Gregory Carrillo,Tennis,Gold,40
+1915,Summer,Russia,Melissa Hall,Rowing,Gold,35
+1915,Summer,China,Kelly Jenkins,Gymnastics,,22
+1915,Summer,USA,William Rollins,Athletics,Bronze,18
+1915,Summer,UK,Kimberly Hoffman,Gymnastics,Bronze,23
+1915,Summer,Russia,Sarah Lucas,Gymnastics,Gold,18
+1915,Summer,South Africa,Jennifer Fisher,Cycling,Gold,37
+1915,Summer,Brazil,Rebecca Garner,Weightlifting,Bronze,27
+1915,Summer,Brazil,Albert Miller,Tennis,Gold,29
+1915,Summer,India,Jessica Zimmerman,Weightlifting,Bronze,29
+1915,Summer,France,Amanda Thomas,Basketball,,26
+1915,Summer,Australia,Margaret Franklin,Weightlifting,Silver,38
+1915,Summer,USA,Sandra Haas,Cycling,Silver,22
+1915,Summer,Italy,Blake Chaney,Soccer,Bronze,35
+1915,Summer,France,Amanda Thomas,Swimming,Silver,38
+1915,Summer,Canada,Heather Villa,Basketball,Bronze,28
+1915,Summer,Russia,Erik White,Athletics,Bronze,29
+1915,Summer,China,Scott Ayala,Weightlifting,,33
+1915,Summer,China,Robert Schultz,Basketball,,29
+1915,Summer,Brazil,Alejandra Brown,Rowing,Silver,27
+1915,Summer,Brazil,Joseph Murphy,Gymnastics,Bronze,32
+1915,Summer,China,James Shaw,Soccer,Bronze,34
+1915,Summer,USA,Erik Jones,Cycling,Bronze,31
+1915,Summer,Australia,Katherine Mercer,Basketball,Gold,33
+1915,Summer,UK,Fernando Oliver,Swimming,Silver,19
+1915,Summer,Japan,Kimberly Hernandez,Swimming,Bronze,31
+1915,Summer,China,Thomas Willis MD,Athletics,Bronze,30
+1915,Summer,South Africa,Michael Dixon MD,Gymnastics,Bronze,26
+1915,Summer,Canada,Colleen Johnson,Tennis,Bronze,32
+1915,Summer,Russia,Stephen Brown,Basketball,Gold,39
+1915,Summer,Italy,Shannon Hood,Gymnastics,Silver,31
+1915,Summer,South Korea,Kayla Patel,Rowing,Silver,34
+1915,Summer,Russia,Bonnie Adams,Swimming,,40
+1915,Summer,UK,Kimberly Nolan,Soccer,Gold,25
+1915,Summer,South Africa,Michael Martin,Athletics,Bronze,19
+1915,Summer,India,Stephen Wallace,Weightlifting,Gold,32
+1915,Summer,USA,Angela Hernandez,Swimming,Gold,38
+1915,Summer,Japan,Rhonda Ballard,Cycling,Gold,21
+1915,Summer,South Africa,Emma Vaughn,Swimming,Gold,18
+1915,Summer,Germany,Rebecca Crawford,Boxing,Bronze,38
+1915,Summer,India,Raymond Marks,Soccer,,31
+1915,Summer,South Korea,Michael Graham,Tennis,Silver,36
+1915,Summer,China,Charles Ramos,Athletics,Bronze,24
+1915,Summer,Australia,Amy Wolfe,Rowing,Silver,31
+1915,Summer,India,Katie Bush,Soccer,Gold,35
+1915,Summer,Brazil,Wesley Nguyen,Cycling,Silver,25
+1915,Summer,Germany,Billy Padilla,Basketball,Gold,34
+1915,Summer,USA,Brandi Bridges,Gymnastics,,37
+1915,Summer,USA,Valerie Jones,Swimming,,22
+1915,Summer,South Africa,Craig Smith,Soccer,Gold,30
+1915,Summer,Russia,Martin Chang,Rowing,Gold,39
+1915,Summer,Japan,Rachel Collins,Tennis,,27
+1915,Summer,Germany,Margaret Lee,Cycling,Gold,33
+1915,Summer,Brazil,Brandon Nelson,Boxing,Silver,35
+1915,Summer,Australia,Stacy Sanchez,Gymnastics,Bronze,35
+1915,Summer,Germany,Timothy Figueroa,Soccer,Bronze,38
+1915,Summer,UK,Amanda Brown,Cycling,Bronze,19
+1915,Summer,Canada,Gabriela Vasquez,Rowing,Bronze,27
+1915,Summer,Canada,Thomas Rivera,Basketball,Gold,22
+1915,Summer,China,Laura Flowers,Weightlifting,,24
+1915,Summer,Brazil,Emma Sawyer,Cycling,Gold,36
+1915,Summer,France,Lisa Lucero,Boxing,Bronze,39
+1915,Summer,Germany,David Ramirez,Weightlifting,Silver,30
+1915,Summer,Australia,Donald Butler,Soccer,Bronze,32
+1915,Summer,USA,Bradley Reid,Swimming,,39
+1915,Summer,Australia,Amber Shaw,Athletics,Gold,18
+1915,Summer,South Korea,Gabrielle Sullivan,Cycling,Gold,19
+1915,Summer,Germany,Jessica Taylor,Basketball,Bronze,25
+1915,Summer,Japan,Terri Lewis,Rowing,Gold,39
+1915,Summer,Germany,Stanley Martinez,Rowing,Bronze,22
+1915,Summer,UK,Nicholas Carson,Basketball,Silver,20
+1915,Summer,India,Daniel Braun,Weightlifting,Gold,24
+1915,Summer,South Korea,Kendra Johnston,Gymnastics,Bronze,27
+1915,Summer,South Africa,Laura Tate,Boxing,,30
+1915,Summer,Russia,Christopher Adams,Athletics,,28
+1915,Summer,South Africa,Casey Cooper,Soccer,Gold,33
+1915,Summer,South Korea,Karl Lewis,Gymnastics,,23
+1915,Summer,Japan,Carol Green,Boxing,,20
+1915,Summer,USA,Marcus Hendrix,Cycling,Silver,32
+1915,Summer,India,Dean Hancock,Gymnastics,Bronze,19
+1915,Summer,South Africa,Lisa Thomas,Swimming,Silver,40
+1915,Summer,South Korea,Michelle Adams,Weightlifting,Silver,36
+1915,Summer,Japan,Timothy Sweeney,Tennis,Gold,40
+1915,Summer,Germany,Jenny Brown,Gymnastics,Silver,33
+1915,Summer,South Africa,Charles Perez,Rowing,Silver,29
+1915,Summer,Germany,Drew Williams,Swimming,,36
+1915,Summer,Japan,Susan Steele,Tennis,,25
+1915,Summer,South Korea,Joshua George,Soccer,,32
+1915,Summer,Brazil,Tonya Mcgrath,Soccer,Silver,23
+1915,Summer,China,Amanda Flores,Gymnastics,Bronze,27
+1915,Summer,UK,Daniel Stein,Weightlifting,Bronze,29
+1915,Summer,Japan,Christian Bell,Athletics,Silver,28
+1915,Summer,India,Michael Cabrera,Cycling,Silver,25
+1915,Summer,Japan,Ian Friedman,Weightlifting,Bronze,36
+1915,Summer,Germany,John Ramirez,Weightlifting,,37
+1915,Summer,Japan,Kyle Stokes,Basketball,,34
+1915,Summer,Canada,Meghan Smith,Gymnastics,Silver,40
+1915,Summer,Russia,Terry Martinez,Soccer,Bronze,26
+1915,Summer,USA,Jeremy Ryan,Basketball,Gold,20
+1915,Summer,Australia,Shari Thomas,Swimming,Bronze,21
+1915,Summer,Australia,Elizabeth Greer,Cycling,Gold,22
+1915,Summer,South Korea,Jenny Kramer,Boxing,Bronze,29
+1915,Summer,France,Aaron Taylor,Athletics,,20
+1915,Summer,Brazil,Gregory Erickson,Weightlifting,Bronze,27
+1915,Summer,Canada,Gina Keller,Soccer,Silver,39
+1915,Summer,Australia,Marc Jacobs,Boxing,,33
+1915,Summer,India,Anthony Black,Boxing,Silver,38
+1915,Summer,South Africa,Kimberly Ruiz,Weightlifting,Gold,28
+1915,Summer,Italy,Phyllis Gonzales,Cycling,Bronze,30
+1915,Summer,France,Jeffrey White,Basketball,Bronze,32
+1915,Summer,Russia,Victor Davis,Boxing,,32
+1915,Summer,Australia,Alexis Dixon,Soccer,Gold,29
+1915,Summer,South Korea,Kathleen Porter,Athletics,Silver,24
+1915,Summer,Canada,Maria Chandler,Weightlifting,Gold,28
+1915,Summer,Russia,Jonathan Byrd,Cycling,Silver,19
+1915,Summer,Australia,Maria Torres,Soccer,,31
+1915,Summer,Australia,Rebecca Valentine,Boxing,Gold,25
+1915,Summer,Brazil,Christina Henry,Cycling,Silver,40
+1915,Summer,India,Dalton Barber,Swimming,Bronze,36
+1915,Summer,China,Andrea Curry,Boxing,Silver,40
+1915,Summer,UK,Julie Salazar,Soccer,,22
+1915,Summer,Brazil,Brenda Perez,Boxing,Bronze,23
+1915,Summer,Brazil,Robert Jones,Cycling,,32
+1915,Summer,Italy,Mia Archer,Swimming,Silver,29
+1915,Summer,Canada,Michael Ellis,Rowing,Gold,36
+1915,Summer,South Korea,Jennifer Brown,Cycling,Silver,38
+1915,Summer,South Korea,Kim Lucero,Rowing,Silver,22
+1915,Summer,USA,Jennifer Jones,Weightlifting,Silver,39
+1915,Summer,France,Paul Miller,Tennis,Silver,26
+1915,Summer,Canada,Lindsay Harrell,Boxing,Bronze,19
+1915,Summer,USA,Michael Meyer,Tennis,Gold,25
+1915,Summer,Russia,Kevin Todd,Soccer,Bronze,21
+1915,Summer,Canada,Nicole Bailey,Tennis,Silver,29
+1915,Summer,South Korea,Jennifer Wilson,Weightlifting,,20
+1915,Summer,South Korea,Mark Bradshaw,Swimming,Silver,26
+1915,Summer,South Korea,Aaron Jimenez,Tennis,,26
+1915,Summer,Russia,Nicholas Matthews,Boxing,Silver,30
+1915,Summer,South Africa,Dr. Cindy Martin,Gymnastics,Silver,23
+1915,Summer,Australia,Paula Vaughn,Boxing,Silver,39
+1915,Summer,Germany,Christopher White,Cycling,Bronze,27
+1915,Summer,France,Shelby Sanders,Soccer,Gold,26
+1915,Summer,Australia,John Boone,Weightlifting,Gold,40
+1915,Summer,South Korea,Juan Thompson,Tennis,,29
+1915,Summer,Italy,Lorraine Garcia,Gymnastics,Bronze,30
+1915,Summer,South Korea,Olivia Wright,Boxing,Gold,34
+1915,Summer,India,Christopher Dixon,Rowing,Bronze,39
+1915,Summer,UK,Scott Cole,Swimming,Silver,35
+1915,Summer,South Africa,Jason Davis,Soccer,Gold,29
+1915,Summer,UK,Henry Villarreal,Cycling,Silver,21
+1915,Summer,Germany,Louis Williams,Gymnastics,Bronze,28
+1915,Summer,USA,Paul Reed,Swimming,Silver,18
+1915,Summer,Japan,Renee Morales,Tennis,Gold,37
+1915,Summer,France,Maria Swanson,Weightlifting,Bronze,34
+1915,Summer,India,Martha Cole,Cycling,Gold,40
+1915,Summer,USA,Rebecca Johnson,Boxing,Silver,30
+1915,Summer,France,Brett Jacobs,Tennis,,25
+1915,Summer,India,Matthew Arias,Athletics,Bronze,20
+1915,Summer,UK,Thomas Goodman,Athletics,Gold,27
+1915,Summer,UK,Jesse Fuentes,Tennis,Bronze,26
+1915,Summer,France,Darrell Schwartz,Basketball,Silver,37
+1915,Summer,France,Alicia Wilson,Gymnastics,Silver,36
+1915,Summer,India,Alan Finley,Soccer,Silver,28
+1915,Summer,India,Aaron Mccormick,Weightlifting,Gold,27
+1915,Summer,Australia,Pamela Buck,Cycling,Gold,36
+1915,Summer,India,Kayla Vazquez,Athletics,Bronze,24
+1915,Summer,China,Christina Byrd MD,Tennis,Silver,22
+1915,Summer,France,Cheyenne Phillips,Tennis,Bronze,22
+1915,Summer,India,Michele Caldwell,Rowing,Gold,38
+1915,Summer,Brazil,Kyle Johnson,Tennis,Bronze,36
+1915,Summer,Italy,Christine Hickman,Swimming,Bronze,29
+1915,Summer,China,Timothy Morris,Weightlifting,Gold,37
+1915,Summer,South Korea,James Dominguez,Cycling,Silver,36
+1915,Summer,Brazil,Michael Pierce,Cycling,,36
+1915,Summer,USA,Rhonda Morgan,Swimming,Bronze,35
+1915,Summer,Brazil,Kelly Williams,Boxing,Silver,38
+1915,Summer,Russia,Grace Colon,Weightlifting,,25
+1915,Summer,Italy,Judy Richardson,Weightlifting,Silver,33
+1915,Summer,Australia,Brittany Martin,Weightlifting,Bronze,36
+1915,Summer,UK,Laura Mccullough DDS,Basketball,Bronze,25
+1915,Summer,Russia,Julie Miller,Athletics,,40
+1915,Summer,USA,Jonathan Harris,Gymnastics,Bronze,36
+1915,Summer,Canada,Kaitlyn Davis,Rowing,,20
+1915,Summer,Italy,Crystal Smith,Athletics,Bronze,22
+1915,Summer,USA,Erik Jackson,Rowing,Gold,30
+1915,Summer,Italy,John Jones,Boxing,Silver,21
+1915,Summer,Japan,Teresa Callahan,Weightlifting,Gold,19
+1915,Summer,Brazil,Daniel Miller,Swimming,,23
+1915,Summer,France,Lisa Murillo,Boxing,,28
+1915,Summer,South Africa,Roger Greene,Boxing,,19
+1915,Summer,USA,Jessica Martinez,Tennis,Gold,22
+1915,Summer,UK,Karen Nelson,Soccer,,25
+1915,Summer,Russia,Robert Rose,Gymnastics,,30
+1915,Summer,Russia,Timothy Munoz,Weightlifting,Gold,26
+1915,Summer,Russia,Susan Kelly DDS,Boxing,,29
+1915,Summer,France,Troy Blevins,Cycling,Silver,33
+1915,Summer,France,Karen Bishop,Cycling,Bronze,20
+1915,Summer,Russia,Mark Walton II,Swimming,Silver,33
+1915,Summer,UK,Shirley Rios,Rowing,,31
+1915,Summer,Russia,Jonathon Daniels,Weightlifting,Bronze,25
+1915,Summer,India,Beth Lewis,Basketball,Silver,32
+1915,Summer,Canada,George Duke,Basketball,Silver,37
+1915,Summer,Italy,Kimberly Price,Rowing,Silver,35
+1915,Summer,South Africa,Mary Fisher,Cycling,,35
+1915,Summer,France,Victoria Bowman,Cycling,,36
+1915,Summer,South Korea,Jerry Stone,Cycling,,21
+1915,Summer,China,Katrina Ball,Swimming,,24
+1915,Summer,South Korea,Jessica Williams,Gymnastics,Gold,36
+1915,Summer,South Africa,David Salazar,Weightlifting,,40
+1915,Summer,Italy,Tammie Gibson,Soccer,,19
+1915,Summer,Japan,Sean White,Gymnastics,Bronze,24
+1915,Summer,UK,Jonathan Bryan,Cycling,Gold,20
+1915,Summer,South Korea,Cassandra Williams,Swimming,,23
+1915,Summer,Japan,Andre Flores,Boxing,Bronze,24
+1915,Summer,Canada,Ashlee Davis,Boxing,Silver,29
+1915,Summer,South Africa,Ashley Hernandez,Swimming,Silver,19
+1915,Summer,China,Melissa Henderson,Basketball,Bronze,33
+1915,Summer,Australia,Marcus Rose,Weightlifting,Silver,34
+1915,Summer,Brazil,Daniel Morgan,Swimming,Silver,35
+1915,Summer,Japan,John Stafford,Swimming,Gold,25
+1915,Summer,Canada,Herbert Lowe,Weightlifting,Gold,33
+1915,Summer,Brazil,Steven Johnston,Rowing,,30
+1915,Summer,France,Brandon Turner,Swimming,Silver,28
+1915,Summer,South Africa,Richard Sanchez,Swimming,Silver,37
+1915,Summer,Italy,Erin Gregory,Gymnastics,Gold,30
+1915,Summer,South Africa,Nicholas Garcia,Boxing,,26
+1915,Summer,UK,Carolyn Rice,Gymnastics,Bronze,28
+1915,Summer,France,Christopher Garcia,Boxing,Bronze,38
+1915,Summer,USA,Vanessa Flores,Cycling,Gold,27
+1915,Summer,Germany,Lindsay Miller,Athletics,Bronze,29
+1915,Summer,India,Pamela Smith,Gymnastics,Silver,31
+1915,Summer,China,Michelle Mcclain,Swimming,Gold,29
+1915,Summer,Italy,Jonathan Jordan,Athletics,Bronze,25
+1915,Summer,South Korea,Jason Nolan,Soccer,,30
+1915,Summer,Brazil,Robert Young,Basketball,,25
+1915,Summer,Russia,Laura James,Boxing,Gold,33
+1915,Summer,UK,Shane Johnson,Rowing,Gold,21
+1915,Summer,South Africa,Samuel Le,Gymnastics,Gold,24
+1915,Summer,China,Amanda Snyder,Gymnastics,,38
+1915,Summer,China,Kayla Spears,Rowing,Silver,30
+1915,Summer,Brazil,Kristina Miller,Basketball,,33
+1915,Summer,South Africa,Brandon Boyer DDS,Athletics,Silver,40
+1915,Summer,Australia,Angela Curtis,Athletics,Gold,25
+1915,Summer,South Korea,Andrew Hernandez,Swimming,Gold,40
+1915,Summer,Australia,Lori Brown,Weightlifting,,40
+1915,Summer,Germany,Connie Miller,Weightlifting,Gold,21
+1915,Summer,Brazil,Amanda Campbell,Tennis,,40
+1915,Summer,Germany,Sandra Alexander,Soccer,Bronze,31
+1915,Summer,Canada,John Adams,Weightlifting,Silver,33
+1915,Summer,Canada,Eric Prince,Rowing,Bronze,22
+1915,Summer,Japan,Erik Ford,Gymnastics,Gold,19
+1915,Summer,France,Jeffrey Smith,Soccer,Silver,19
+1915,Summer,Italy,Kristen Black,Swimming,Gold,26
+1915,Summer,India,Vincent Williams,Soccer,Silver,27
+1915,Summer,India,Lauren Evans,Swimming,Gold,26
+1915,Summer,France,Ashley Miller,Gymnastics,,26
+1915,Summer,South Africa,Jesus Farmer,Cycling,Gold,29
+1915,Summer,Japan,Brendan Torres,Athletics,Silver,27
+1915,Summer,Japan,Pamela Conley,Weightlifting,Gold,30
+1915,Summer,UK,David Pollard,Athletics,Gold,33
+1915,Summer,South Korea,Joy Carey,Rowing,Bronze,19
+1915,Summer,Australia,Jeffrey Clayton,Gymnastics,Silver,28
+1915,Summer,China,Briana Jones,Swimming,Bronze,35
+1915,Summer,India,Kyle Wells,Tennis,,22
+1915,Summer,USA,Roger Blair,Soccer,Silver,25
+1915,Summer,India,Victoria Perry,Swimming,Gold,40
+1915,Summer,Japan,Tara Villanueva,Boxing,Bronze,24
+1915,Summer,South Korea,Linda Novak,Swimming,,28
+1915,Summer,India,Edward Richmond,Athletics,Gold,18
+1915,Summer,Russia,Samantha Petersen,Weightlifting,Gold,28
+1915,Summer,Italy,Holly Jackson,Gymnastics,,33
+1915,Summer,France,Jessica Warren,Athletics,Gold,19
+1915,Summer,Australia,Mr. Chris Jackson,Cycling,Bronze,18
+1915,Summer,France,Bryan Flores,Basketball,Gold,23
+1915,Summer,Brazil,Craig Lawson,Basketball,Gold,38
+1915,Summer,Japan,Thomas Conway,Swimming,Bronze,21
+1915,Summer,China,Eddie Figueroa,Basketball,Bronze,34
+1915,Summer,Japan,Jennifer Bush,Weightlifting,Silver,28
+1915,Summer,Japan,Sandra Bailey,Athletics,Bronze,24
+1915,Summer,China,Nicholas Hebert,Basketball,Silver,35
+1915,Summer,France,Rebekah Owens,Soccer,Gold,27
+1915,Summer,India,Michelle Burton,Athletics,Silver,34
+1915,Summer,Italy,Shannon Baker,Cycling,Silver,24
+1915,Summer,Germany,Natasha Jones,Rowing,Gold,38
+1915,Summer,UK,Vanessa Rojas,Swimming,,19
+1915,Summer,France,Cindy Jacobs,Soccer,Bronze,24
+1915,Summer,Australia,James Valencia,Basketball,Silver,35
+1915,Summer,China,Daniel Wright,Rowing,Bronze,22
+1915,Summer,China,Angela Austin,Tennis,Bronze,35
+1915,Summer,South Africa,Joel Ramos,Rowing,Bronze,24
+1915,Summer,China,Emily Williams,Cycling,,27
+1915,Summer,Japan,Patricia Richardson,Tennis,Silver,24
+1915,Summer,Germany,Michael Perry,Boxing,Gold,38
+1915,Summer,Italy,Daniel Knight,Cycling,,25
+1915,Summer,Russia,Joanna Brown,Swimming,Silver,26
+1915,Summer,Brazil,Elizabeth Davies,Boxing,,39
+1915,Summer,USA,Courtney Morris,Weightlifting,Bronze,31
+1915,Summer,Italy,Edward Lindsey,Boxing,Bronze,34
+1915,Summer,South Africa,Eric Allen,Tennis,,38
+1915,Summer,USA,Kaylee Gray,Swimming,Gold,28
+1915,Summer,India,Jonathan Ward,Boxing,Silver,24
+1915,Summer,South Africa,Carly Lee,Gymnastics,Silver,33
+1915,Summer,Brazil,David Sullivan,Cycling,Silver,29
+1915,Summer,Australia,Jennifer Jones,Weightlifting,Gold,28
+1915,Summer,Italy,Michael Gonzalez,Basketball,Silver,38
+1915,Summer,USA,Whitney Matthews,Weightlifting,,33
+1915,Summer,UK,Ashley Chen,Swimming,,26
+1915,Summer,South Korea,Heather Curry,Athletics,,24
+1915,Summer,Australia,Jill Cannon,Boxing,Gold,21
+1915,Summer,South Africa,Andrew Coleman,Gymnastics,Gold,25
+1915,Summer,Australia,Jasmine Rosario,Basketball,Gold,33
+1915,Summer,Australia,Julie Maldonado,Weightlifting,Silver,26
+1915,Summer,Russia,Andrew Peters,Boxing,Gold,32
+1915,Summer,Canada,Kimberly Vang,Basketball,,29
+1915,Summer,Italy,Beverly Jones,Weightlifting,Silver,35
+1915,Summer,Australia,Robert Trujillo,Boxing,Gold,31
+1915,Summer,UK,William Ellis,Weightlifting,,35
+1915,Summer,China,Jeanette Davis,Tennis,Gold,22
+1915,Summer,Brazil,Jamie Sutton,Cycling,,35
+1915,Summer,South Korea,Richard Wright,Weightlifting,Silver,38
+1915,Summer,India,Louis Lopez,Athletics,Gold,39
+1915,Summer,China,Randy Wilson,Basketball,Bronze,27
+1915,Summer,UK,Jordan Haney,Rowing,Bronze,25
+1915,Summer,Japan,Vernon Lee,Soccer,Gold,33
+1915,Summer,India,Troy Gill,Rowing,,21
+1915,Summer,Germany,Christina Green,Soccer,,31
+1915,Summer,Brazil,Jeffrey Smith,Boxing,,25
+1915,Summer,Germany,Jasmine Nelson,Weightlifting,Gold,26
+1915,Summer,Brazil,Kathleen Martinez,Boxing,Bronze,29
+1915,Summer,Australia,Robert George,Boxing,,19
+1915,Summer,Canada,Elizabeth Rodriguez,Rowing,Bronze,30
+1915,Summer,India,Levi Burns,Athletics,Gold,26
+1915,Summer,France,William Mccoy,Tennis,Silver,24
+1915,Summer,Russia,Brandon Wiggins,Cycling,Gold,29
+1915,Summer,USA,Ashley Rodriguez,Basketball,Silver,32
+1915,Summer,Australia,Misty Hopkins,Cycling,Bronze,29
+1915,Summer,South Korea,Amber Rodriguez,Weightlifting,Bronze,35
+1915,Summer,Germany,Linda Thomas,Rowing,Bronze,22
+1915,Summer,Russia,Jennifer Wade,Soccer,Bronze,32
+1915,Summer,India,Erica Todd,Tennis,Gold,40
+1915,Summer,Russia,Charlene Barnett,Tennis,,20
+1915,Summer,Canada,Maria Perez,Rowing,Gold,30
+1915,Summer,Italy,Mr. Manuel Peterson,Rowing,,33
+1915,Summer,USA,Gerald Wiley,Tennis,Bronze,33
+1915,Summer,Brazil,Tamara Smith,Rowing,Silver,21
+1915,Summer,India,Mrs. Stephanie Hernandez DDS,Boxing,Bronze,26
+1915,Summer,Germany,David Robertson,Gymnastics,Gold,34
+1915,Summer,UK,Bryan Freeman,Soccer,,30
+1915,Summer,China,Jillian Ballard,Athletics,,23
+1915,Summer,Italy,Chloe Carson,Soccer,Silver,39
+1915,Summer,USA,Jonathan Cross,Rowing,,33
+1915,Summer,South Africa,Cynthia Jones,Weightlifting,Bronze,23
+1915,Summer,Japan,John Thomas,Swimming,Silver,25
+1915,Summer,Germany,Kathy Walker,Cycling,Bronze,27
+1915,Summer,Brazil,Darrell Young,Basketball,,20
+1915,Summer,South Africa,Vanessa Marshall,Tennis,,30
+1915,Summer,Australia,Bradley Reilly,Cycling,,20
+1915,Summer,Canada,Robin Williams,Cycling,,21
+1915,Summer,China,Caitlin Mendez,Gymnastics,Gold,19
+1915,Summer,South Korea,John Perry,Cycling,Gold,28
+1915,Summer,Japan,Mr. Eric Thomas DVM,Swimming,Gold,39
+1915,Summer,Brazil,Jason Johnson,Gymnastics,Silver,24
+1915,Summer,Canada,Brian Maldonado,Tennis,Gold,38
+1915,Summer,China,James Cowan,Cycling,Bronze,33
+1915,Summer,Germany,Andrew Hamilton,Gymnastics,Gold,22
+1915,Summer,France,Gabriel Riley,Rowing,,31
+1915,Summer,USA,David Logan,Swimming,Silver,37
+1915,Summer,USA,Miguel Brady,Gymnastics,Gold,31
+1915,Summer,Germany,John Martin,Cycling,Gold,28
+1915,Summer,Russia,Stephen Robinson,Swimming,,21
+1915,Summer,France,Ashley Cannon,Gymnastics,Bronze,39
+1915,Summer,China,Michael Williams,Boxing,,22
+1915,Summer,UK,Melvin Johnson,Basketball,Silver,40
+1915,Summer,Japan,Bianca Gomez,Tennis,Bronze,39
+1915,Summer,Russia,Brittany Miller,Athletics,Silver,30
+1915,Summer,South Africa,Cameron Wilson,Athletics,Bronze,32
+1915,Summer,France,Paula Johns,Cycling,Silver,33
+1915,Summer,Brazil,Michelle Williams,Boxing,Gold,27
+1915,Summer,France,Linda Vargas,Athletics,,28
+1915,Summer,Canada,Zoe Burnett,Cycling,Silver,34
+1915,Summer,Australia,Beth Pennington,Rowing,,26
+1915,Summer,South Korea,Dr. Cheryl Davis,Cycling,,32
+1915,Summer,UK,Karen Hutchinson,Rowing,Bronze,39
+1915,Summer,France,Joanne Roman,Rowing,Silver,18
+1915,Summer,Germany,James Stevens,Weightlifting,,28
+1915,Summer,South Africa,Roger Watson,Athletics,Gold,33
+1915,Summer,Germany,Joshua Browning,Gymnastics,,32
+1915,Summer,Italy,Matthew Mercado,Cycling,Silver,38
+1915,Summer,Italy,Daniel Berger,Soccer,Gold,30
+1915,Summer,South Korea,Amanda Johnson,Basketball,,30
+1915,Summer,Germany,Nancy Wang,Athletics,Bronze,27
+1915,Summer,USA,Jenny Anderson,Tennis,Silver,21
+1915,Summer,USA,Nicolas Branch,Boxing,Silver,35
+1915,Summer,Russia,Kurt Jackson,Cycling,Bronze,40
+1915,Summer,USA,Sonya Gonzalez,Rowing,,20
+1915,Summer,Canada,Kristen Aguilar,Weightlifting,,29
+1915,Summer,UK,Molly Hardy,Soccer,Silver,19
+1915,Summer,Germany,Jonathan Andrews,Basketball,Gold,24
+1915,Summer,Germany,Travis Freeman,Tennis,Gold,40
+1915,Summer,Italy,Patrick Olson,Soccer,,33
+1915,Summer,Italy,Patricia Rocha,Basketball,,18
+1915,Summer,China,Henry Salinas,Cycling,Gold,18
+1915,Summer,Brazil,Felicia Rodgers,Boxing,Bronze,37
+1915,Summer,Canada,Kristy Marshall,Athletics,Silver,36
+1915,Summer,South Africa,Christopher Hill,Rowing,,21
+1915,Summer,UK,Heather Kelly,Soccer,Silver,39
+1915,Summer,South Africa,Cheryl Hernandez,Boxing,Bronze,40
+1915,Summer,Canada,John Rangel,Athletics,Gold,23
+1915,Summer,Italy,Colin Sanchez,Rowing,Gold,32
+1915,Summer,South Korea,Colin Duran,Athletics,Bronze,18
+1915,Summer,India,Andrew Torres,Athletics,Bronze,27
+1915,Summer,France,Teresa Hall,Cycling,Gold,34
+1915,Summer,Germany,Michael Hall,Soccer,,38
+1915,Summer,South Korea,Jason Mcintyre,Gymnastics,Bronze,31
+1915,Summer,Canada,Marissa Bell,Cycling,Bronze,28
+1915,Summer,Russia,Susan Scott,Athletics,Silver,29
+1915,Summer,France,Jeffrey Graham,Boxing,Bronze,36
+1915,Summer,China,Rodney Vazquez,Basketball,Silver,37
+1915,Summer,UK,Rebecca Morgan,Cycling,Bronze,33
+1915,Summer,India,Jennifer Cook,Boxing,Bronze,30
+1915,Summer,Brazil,Nicholas Curtis,Tennis,,27
+1915,Summer,Japan,Lauren Rodriguez,Soccer,Bronze,25
+1915,Summer,USA,Jessica Wong,Soccer,Bronze,27
+1915,Summer,UK,Audrey Nelson,Gymnastics,Bronze,38
+1915,Summer,France,Jonathan Thompson,Swimming,Bronze,29
+1915,Summer,Russia,Kristen Matthews,Cycling,Gold,28
+1915,Summer,Canada,Sherry Bauer,Tennis,,34
+1915,Summer,Germany,Nina Montoya,Rowing,Silver,29
+1915,Summer,France,Michael Holland,Basketball,Silver,21
+1915,Summer,USA,Mark Marsh,Swimming,,37
+1915,Summer,Russia,Jacqueline Strong,Athletics,Gold,36
+1915,Summer,Russia,Cory Andrews,Cycling,,30
+1915,Summer,France,Tracey Tucker,Basketball,Gold,38
+1915,Summer,Brazil,Joshua Reyes,Boxing,Bronze,22
+1915,Summer,USA,Bruce Harris,Tennis,Silver,40
+1915,Summer,Brazil,Michael Brown,Rowing,Silver,36
+1915,Summer,UK,Madison Jordan,Tennis,Bronze,20
+1915,Summer,South Africa,Brittany Taylor,Athletics,Gold,38
+1915,Summer,Russia,Anthony Christensen,Basketball,,30
+1915,Summer,UK,Martha Vega,Swimming,Silver,22
+1915,Summer,Germany,Kelly Craig,Soccer,Silver,38
+1915,Summer,India,Anthony Young,Tennis,,26
+1915,Summer,Germany,Pamela Whitaker,Athletics,Bronze,37
+1915,Summer,Canada,Angelica Luna,Athletics,Silver,40
+1915,Summer,South Korea,Thomas Jones,Weightlifting,Gold,19
+1915,Summer,Japan,Suzanne Thomas,Athletics,,18
+1915,Summer,UK,Jason Palmer,Soccer,Bronze,36
+1915,Summer,India,Andrea Miller,Weightlifting,Gold,23
+1915,Summer,China,John Hall,Weightlifting,Silver,28
+1915,Summer,Italy,Katherine Keller,Athletics,,34
+1915,Summer,USA,John Patterson,Athletics,Silver,39
+1915,Summer,Germany,Heather Powers,Gymnastics,Bronze,36
+1915,Summer,USA,Jeff Cameron,Boxing,Silver,35
+1915,Summer,France,Jeff Roberts,Swimming,Bronze,24
+1915,Summer,Brazil,Megan Santos,Boxing,,24
+1915,Summer,Australia,Kristina Ruiz,Gymnastics,,40
+1915,Summer,South Africa,Amy Madden,Gymnastics,Bronze,22
+1915,Summer,Australia,Gary Huynh,Soccer,Gold,28
+1915,Summer,Italy,Christina Martinez,Swimming,Bronze,35
+1915,Summer,Canada,Cynthia Martin,Boxing,Gold,19
+1915,Summer,France,Randall Brown,Basketball,Bronze,38
+1915,Summer,India,Francis Harris,Rowing,Bronze,20
+1915,Summer,France,John Moore,Soccer,,38
+1915,Summer,India,James Bartlett,Rowing,Gold,31
+1915,Summer,Germany,Allison Adams,Gymnastics,Bronze,24
+1915,Summer,Canada,Donna Williams,Soccer,Silver,29
+1915,Summer,Germany,Rebecca Castillo,Tennis,,35
+1915,Summer,Brazil,Todd Murphy,Athletics,Silver,32
+1915,Summer,Russia,Carolyn Sims,Rowing,Gold,27
+1915,Summer,South Korea,Jeanette Burke,Rowing,Silver,21
+1915,Summer,UK,Mary Ingram,Gymnastics,Gold,21
+1915,Summer,China,Meghan Douglas,Swimming,Bronze,31
+1915,Summer,Italy,Jeremy Garcia,Basketball,Silver,40
+1915,Summer,Russia,William Ball,Weightlifting,Silver,31
+1915,Summer,South Korea,Angel Hoover,Soccer,Silver,37
+1915,Summer,Japan,Carlos Morgan,Weightlifting,Bronze,28
+1915,Summer,Brazil,Rebecca Johnston,Cycling,Silver,23
+1915,Summer,Australia,Brian Miller,Soccer,Gold,39
+1915,Summer,China,Allison Davis,Gymnastics,Bronze,23
+1915,Summer,Japan,Mark Crawford,Rowing,Silver,40
+1915,Summer,Italy,John Snyder,Soccer,Gold,28
+1915,Summer,Italy,Jennifer Leonard,Basketball,Silver,27
+1915,Summer,UK,Kaitlyn Ramirez,Boxing,Silver,28
+1915,Summer,Australia,Mary Gibbs,Soccer,Bronze,25
+1915,Summer,Germany,Judith Gutierrez,Cycling,Bronze,24
+1915,Summer,Italy,Keith Lee,Cycling,Gold,27
+1915,Summer,China,Cindy Gallagher,Boxing,Bronze,35
+1915,Summer,Japan,Anthony Smith,Gymnastics,Gold,18
+1915,Summer,South Africa,Julie Roberts,Basketball,Bronze,35
+1915,Summer,South Africa,Matthew Simon,Athletics,,21
+1915,Summer,USA,Christopher Rogers,Cycling,Bronze,30
+1915,Summer,USA,Jennifer Rodriguez,Basketball,Silver,23
+1915,Summer,Germany,Christopher Kelly,Weightlifting,Gold,29
+1915,Summer,South Africa,Jennifer Newton,Athletics,Gold,38
+1915,Summer,South Africa,Melissa Phillips,Rowing,,19
+1915,Summer,Italy,Rachael Haas,Gymnastics,Bronze,34
+1915,Summer,South Korea,Alexandra Cannon,Soccer,,39
+1915,Summer,Japan,Michael Johnson,Swimming,Silver,27
+1915,Summer,Italy,David Welch,Weightlifting,,35
+1915,Summer,USA,Louis Moon,Cycling,,19
+1915,Summer,India,James Reid,Tennis,,29
+1915,Summer,Japan,Johnny Oliver,Boxing,Silver,27
+1915,Summer,France,Kristin Clark,Basketball,Gold,29
+1915,Summer,South Korea,Patrick Martinez,Swimming,Gold,20
+1915,Summer,South Korea,John Mitchell,Rowing,Silver,22
+1915,Summer,Russia,Sarah Mccoy,Athletics,Bronze,23
+1915,Summer,France,Patricia Henderson,Tennis,Gold,27
+1915,Summer,UK,Michael Lozano,Gymnastics,Bronze,30
+1915,Summer,China,Nicole Rodriguez,Tennis,Silver,28
+1915,Summer,UK,Alex Hahn,Cycling,,32
+1915,Summer,Australia,Brianna May,Swimming,Silver,37
+1915,Summer,South Korea,Megan Williams,Soccer,Silver,22
+1915,Summer,China,Monica Daniels,Athletics,,21
+1915,Summer,Russia,Carol Chapman,Gymnastics,Bronze,22
+1915,Summer,Canada,Tina Garcia,Cycling,Gold,38
+1915,Summer,Russia,Eric Proctor,Athletics,,18
+1915,Summer,Russia,Mary Hopkins,Rowing,Silver,36
+1915,Summer,Australia,Andrew Hunt,Athletics,Gold,38
+1915,Summer,India,Susan Rowland,Tennis,,23
+1915,Summer,Germany,Erin Harrison,Gymnastics,Bronze,33
+1915,Summer,USA,David Simon,Rowing,Bronze,35
+1915,Summer,Brazil,Peter Booker,Weightlifting,Silver,19
+1915,Summer,Italy,Jennifer Charles,Soccer,Silver,38
+1915,Summer,China,Gabriel Garcia,Soccer,,21
+1915,Summer,Russia,Alicia Hall,Boxing,Gold,26
+1915,Summer,France,Nicole Castillo,Swimming,Gold,21
+1915,Summer,Australia,Donald Walton,Gymnastics,Silver,36
+1915,Summer,Brazil,Heather Molina,Gymnastics,,24
+1915,Summer,Japan,Pedro Smith,Basketball,,37
+1915,Summer,India,Timothy Bell,Athletics,,25
+1915,Summer,Canada,Gene Hernandez,Boxing,Gold,37
+1915,Summer,Brazil,Amy Gibson,Soccer,Silver,29
+1915,Summer,South Korea,Frederick Stanton,Boxing,Bronze,26
+1915,Summer,Italy,Sarah Sanchez,Cycling,,21
+1915,Summer,Brazil,Kristina Ayers,Rowing,,39
+1915,Summer,China,Elizabeth Richards,Rowing,Silver,34
+1915,Summer,Japan,Gregory Turner,Boxing,Gold,30
+1915,Summer,South Korea,Richard Douglas,Weightlifting,Bronze,37
+1915,Summer,Brazil,James Alvarado,Cycling,,25
+1915,Summer,UK,Heather Johnson,Rowing,Silver,24
+1915,Summer,USA,Donald Simpson,Basketball,Bronze,29
+1915,Summer,Canada,Jodi Garcia MD,Swimming,Bronze,28
+1915,Summer,China,Daniel Rose,Swimming,Bronze,19
+1915,Summer,Russia,Gregory Arias,Boxing,Silver,29
+1915,Summer,France,Jay Price,Athletics,,30
+1915,Summer,India,Robert Gonzalez,Swimming,Gold,31
+1915,Summer,Germany,Steven Andersen,Boxing,Silver,31
+1915,Summer,China,Ian Lowery,Rowing,Silver,22
+1915,Summer,South Africa,Nicole Mejia,Cycling,Bronze,18
+1915,Summer,South Korea,Cheryl Ryan,Rowing,,26
+1915,Summer,Japan,Shawn Hudson,Soccer,,37
+1915,Summer,Canada,Cody Berg,Swimming,Bronze,18
+1915,Summer,Italy,Teresa Lewis,Gymnastics,Bronze,20
+1915,Summer,Italy,Michael Chan,Swimming,Bronze,32
+1915,Summer,Russia,Mary Lam,Swimming,,22
+1915,Summer,India,Elizabeth Keller,Tennis,Silver,26
+1915,Summer,China,Cody Tate,Athletics,Silver,34
+1915,Summer,China,Stephanie Maldonado,Rowing,,26
+1915,Summer,Italy,Amber Knox,Boxing,,31
+1915,Summer,Canada,Darlene Parker,Weightlifting,Bronze,26
+1915,Summer,France,Emily Robinson,Cycling,,21
+1915,Summer,USA,Christopher Miles,Weightlifting,Bronze,38
+1915,Summer,Germany,Matthew Mcmahon,Soccer,,18
+1915,Summer,Germany,Justin Beck,Weightlifting,Gold,20
+1915,Summer,Italy,Lauren Pierce,Rowing,,31
+1915,Summer,Brazil,Jacqueline Cox,Cycling,Bronze,34
+1915,Summer,Brazil,Ryan Kramer,Athletics,,28
+1915,Summer,India,Nicole Torres,Gymnastics,Bronze,38
+1915,Summer,South Korea,James Sims,Tennis,Silver,20
+1915,Summer,France,Jeffrey Singh,Soccer,Gold,32
+1915,Summer,South Korea,Debra Roberts,Soccer,Silver,32
+1915,Summer,Germany,Richard Collins,Cycling,Silver,37
+1915,Summer,USA,Luis Hernandez,Tennis,Bronze,21
+1915,Summer,USA,Laurie Rojas,Athletics,Gold,36
+1915,Summer,Australia,Mark Phillips,Gymnastics,Bronze,21
+1915,Summer,Canada,Kelly Durham,Boxing,,29
+1915,Summer,France,Jessica Foster,Tennis,Gold,21
+1915,Summer,Germany,Patty Cross,Athletics,Bronze,33
+1915,Summer,Italy,Vanessa Pope,Weightlifting,,36
+1915,Summer,India,Jade Mccullough,Swimming,,27
+1915,Summer,South Africa,Joseph Williams,Tennis,Bronze,38
+1915,Summer,Australia,Michael Smith,Soccer,Bronze,32
+1915,Summer,Russia,Maria Sanchez,Weightlifting,Bronze,32
+1915,Summer,Germany,Mark Thompson,Rowing,Silver,27
+1915,Summer,South Korea,Emily Hayes,Swimming,Silver,24
+1915,Summer,Italy,Derek Robbins,Gymnastics,,18
+1915,Summer,Italy,Joshua Ellis,Gymnastics,Silver,32
+1915,Summer,Germany,Jonathan Gaines,Boxing,,20
+1915,Summer,Australia,Cameron Ross,Athletics,,33
+1915,Summer,India,Justin Mcgee,Basketball,Bronze,25
+1915,Summer,USA,Brittney Archer,Soccer,Bronze,22
+1915,Summer,Canada,Jennifer Turner,Weightlifting,,20
+1915,Summer,Italy,Tammy Turner,Tennis,Bronze,20
+1915,Summer,India,Olivia Ward,Boxing,Gold,36
+1915,Summer,Japan,Brian Mcguire,Soccer,Gold,30
+1915,Summer,India,Walter Murray,Boxing,Bronze,21
+1915,Summer,South Korea,Barbara Johnson,Soccer,Gold,29
+1915,Summer,South Korea,Mr. Alan Pratt Jr.,Boxing,,29
+1915,Summer,USA,Michelle Mckay,Gymnastics,Silver,25
+1915,Summer,South Korea,Russell Combs,Athletics,,18
+1915,Summer,UK,Christopher Guerrero,Swimming,,20
+1915,Summer,UK,Gabriela Kaiser,Basketball,,37
+1915,Summer,USA,Catherine Newman,Basketball,Silver,31
+1915,Summer,Brazil,Michael Morris,Tennis,,18
+1915,Summer,Japan,Rhonda Johnson,Rowing,,23
+1915,Summer,USA,Charlotte Butler,Soccer,,29
+1915,Summer,Germany,Jackie Wilson,Athletics,Gold,23
+1915,Summer,Brazil,Jessica Hill,Soccer,Bronze,27
+1915,Summer,USA,Dr. Tamara Jennings,Swimming,Gold,40
+1915,Summer,USA,Larry Torres,Tennis,Bronze,40
+1915,Summer,Canada,William Horton,Gymnastics,Bronze,38
+1915,Summer,Japan,Brandon Villanueva,Gymnastics,Gold,40
+1915,Summer,South Africa,Joshua Pratt,Weightlifting,,37
+1915,Summer,South Korea,Joshua Allen,Swimming,Gold,18
+1915,Summer,Brazil,James Nguyen,Weightlifting,,31
+1915,Summer,Italy,Adam Stein,Swimming,Silver,27
+1915,Summer,South Korea,Teresa Ewing,Tennis,Silver,29
+1915,Summer,UK,Taylor Flores,Basketball,Gold,27
+1915,Summer,Russia,Evan Myers,Cycling,,40
+1915,Summer,South Korea,Connie Larson,Basketball,Silver,40
+1915,Summer,Brazil,Mr. Nicholas Williams,Basketball,Silver,37
+1915,Summer,Russia,Kevin Hunter,Cycling,,28
+1915,Summer,France,Brittany Weeks,Swimming,Silver,28
+1915,Summer,Italy,Robert Kelly,Athletics,Silver,33
+1915,Summer,South Africa,Christopher Santana,Swimming,,38
+1915,Summer,UK,James Brewer,Boxing,Silver,36
+1915,Summer,Australia,Micheal Edwards,Athletics,Bronze,32
+1915,Summer,India,Billy Hansen,Rowing,Gold,36
+1915,Summer,Australia,Cassandra Hutchinson,Weightlifting,Silver,37
+1915,Summer,USA,Anthony Lester,Boxing,Gold,28
+1915,Summer,South Africa,Christina Bryan,Tennis,Bronze,19
+1915,Summer,Japan,Anna Cameron,Athletics,,34
+1915,Summer,France,Kristopher Ibarra,Rowing,Gold,35
+1915,Summer,China,Tony Gonzalez,Swimming,,39
+1915,Summer,Japan,Renee Gomez,Gymnastics,,36
+1915,Summer,India,James Lopez DDS,Rowing,,24
+1915,Summer,Brazil,Diane Hardy,Swimming,Gold,26
+1915,Summer,South Africa,Michelle Boyd,Gymnastics,,22
+1915,Summer,Brazil,Tiffany Olson,Weightlifting,Bronze,20
+1915,Summer,USA,Martha Delacruz,Basketball,,23
+1915,Summer,South Africa,Timothy Nguyen,Rowing,,38
+1915,Summer,India,Adriana Moss,Athletics,Bronze,34
+1915,Summer,France,Martin Hendricks,Boxing,Gold,21
+1915,Summer,Italy,David Sanchez,Basketball,Silver,39
+1915,Summer,Germany,Jennifer Suarez,Rowing,,39
+1915,Summer,China,Debra Thomas,Athletics,Silver,19
+1915,Summer,Brazil,Walter Oneill,Rowing,Bronze,36
+1915,Summer,South Korea,Michael Burke,Boxing,Gold,21
+1915,Summer,Russia,Vickie Ross,Weightlifting,Gold,29
+1915,Summer,USA,Tracy Turner,Athletics,Gold,33
+1915,Summer,Russia,Donna Myers,Gymnastics,Bronze,35
+1915,Summer,Italy,Ashley Martinez,Basketball,Silver,33
+1915,Summer,India,Jacqueline Hicks,Basketball,,40
+1915,Summer,France,Daniel Thompson,Boxing,Bronze,36
+1915,Summer,France,Joyce Forbes,Boxing,Silver,32
+1915,Summer,South Korea,Michael Shaw,Basketball,,19
+1915,Summer,Canada,Sean Lucas,Swimming,Gold,34
+1915,Summer,South Africa,Melissa Mcintyre,Gymnastics,Silver,40
+1915,Summer,India,Sierra Cherry,Basketball,Bronze,21
+1915,Summer,India,Kevin Lopez,Rowing,Silver,23
+1915,Summer,France,Susan Young,Tennis,Gold,28
+1915,Summer,Australia,Cynthia Rivas,Gymnastics,Silver,20
+1915,Summer,Australia,Brenda Bowman,Weightlifting,Gold,22
+1915,Summer,Italy,Justin Walker,Athletics,Silver,18
+1915,Summer,Australia,Justin Ibarra,Athletics,,39
+1915,Summer,France,John Cunningham,Basketball,Bronze,39
+1915,Summer,Italy,Matthew Jackson,Weightlifting,Bronze,28
+1915,Summer,Australia,Matthew Davis,Rowing,Bronze,24
+1915,Summer,France,Melanie Harris,Soccer,Bronze,39
