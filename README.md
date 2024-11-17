@@ -177,6 +177,20 @@ We welcome contributions to improve the project!
    ```  
 
 ---
+## **screenshots**:
+ > transformed data  obtained from the  raw data:
+  1. medal analytics:
+  ![image](https://github.com/user-attachments/assets/7c1304db-fe79-4885-b655-39c4cb9f10fe)
+  2. average age:
+  ![image](https://github.com/user-attachments/assets/971f3f20-8f0e-4273-8bff-56fcedf89ac5)
+  3. total count of medal:
+  ![image](https://github.com/user-attachments/assets/9f39a3b9-8c6a-4766-bc08-0933686e470b)
+> Dashboard:
+  1. dashboard 1:
+     ![image](https://github.com/user-attachments/assets/9a322b82-b94d-4326-82d7-d3da6d5824f4)
+ 2. dashboard 2:
+    ![image](https://github.com/user-attachments/assets/d3a81c53-6b72-49b4-930a-4aaffea53a3e)
+ 
 
 ## **License**  
 
